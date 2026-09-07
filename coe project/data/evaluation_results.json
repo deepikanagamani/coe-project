@@ -1,0 +1,58 @@
+{
+  "evaluation_timestamp": "2026-09-07T14:12:06Z",
+  "total_students": 320,
+  "metrics": {
+    "pct_plans_with_conflicts": {
+      "metric_name": "% of student course plans with >= 1 unresolved prerequisite conflict",
+      "baseline": 92.19,
+      "target": "<= 25.0% (reduce by >= 50% vs baseline)",
+      "measured_prototype": 0.0,
+      "reduction_achieved_pct": 100.0,
+      "passed": true
+    },
+    "pct_aligned_recommendations": {
+      "metric_name": "% of recommended electives rated aligned with stated goal",
+      "baseline": 52.21,
+      "target": ">= 80.0%",
+      "measured_prototype": 98.62,
+      "passed": true
+    },
+    "avg_conflicts_per_plan": {
+      "metric_name": "Avg. number of prerequisite conflicts per student plan",
+      "baseline": 2.71,
+      "target": "reduce by >= 50%",
+      "measured_prototype": 0.0,
+      "reduction_achieved_pct": 100.0,
+      "passed": true
+    },
+    "recommendation_latency_ms": {
+      "metric_name": "Recommendation response latency (ms)",
+      "baseline": "n/a",
+      "target": "< 500ms",
+      "measured_prototype_avg": 0.19,
+      "measured_prototype_p50": 0.18,
+      "measured_prototype_p95": 0.29,
+      "measured_prototype_p99": 0.35,
+      "passed": true
+    },
+    "pct_explained_recommendations": {
+      "metric_name": "% of recommendations with a valid, non-empty explanation",
+      "baseline": 0.0,
+      "target": "100.0%",
+      "measured_prototype": 100.0,
+      "passed": true
+    }
+  },
+  "baseline_failures": {
+    "prerequisite_violations": 718,
+    "schedule_collisions": 150,
+    "unaligned_goal": 459,
+    "missing_goal": 6
+  },
+  "prototype_failures": {
+    "prerequisite_violations": 0,
+    "schedule_collisions": 0,
+    "unaligned_goal": 4,
+    "missing_goal": 6
+  }
+}

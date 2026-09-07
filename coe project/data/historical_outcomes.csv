@@ -1,0 +1,1001 @@
+event_id,student_id,course_id,term,outcome,notes
+EVT_00001,STU_0237,MATH201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00002,STU_0129,DATA201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00003,STU_0250,DATA401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00004,STU_0121,DATA201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00005,STU_0100,CS420,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00006,STU_0316,CS415,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00007,STU_0187,CS420,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00008,STU_0161,SE301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00009,STU_0224,BIO301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00010,STU_0170,SYS500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00011,STU_0157,SEC500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00012,STU_0311,MATH205,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00013,STU_0072,SEC301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00014,STU_0040,MATH201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00015,STU_0016,SYS405,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00016,STU_0283,HCI301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00017,STU_0077,SEC405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00018,STU_0302,CS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00019,STU_0262,SYS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00020,STU_0006,CLOUD301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00021,STU_0072,BIO401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00022,STU_0290,CS301,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00023,STU_0021,AI305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00024,STU_0136,AI401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00025,STU_0106,EDGE201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00026,STU_0233,DES101,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00027,STU_0166,WEB201,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00028,STU_0135,DATA301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00029,STU_0188,MATH201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00030,STU_0115,EDGE201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00031,STU_0177,SEC500,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00032,STU_0004,HCI500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00033,STU_0118,MATH201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00034,STU_0096,CS305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00035,STU_0061,AI310,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00036,STU_0059,SYS500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00037,STU_0303,CS305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00038,STU_0023,PROD201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00039,STU_0263,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00040,STU_0133,DATA305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00041,STU_0289,MATH101,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00042,STU_0111,BIO401,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00043,STU_0088,AI305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00044,STU_0299,DATA305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00045,STU_0176,CS500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00046,STU_0198,PROD201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00047,STU_0268,HCI500,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00048,STU_0311,DATA201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00049,STU_0315,SYS101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00050,STU_0067,CS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00051,STU_0190,DES101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00052,STU_0247,AI405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00053,STU_0295,DATA201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00054,STU_0245,AI310,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00055,STU_0279,SE401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00056,STU_0004,EDGE201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00057,STU_0193,SEC305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00058,STU_0055,CS303,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00059,STU_0130,HCI301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00060,STU_0314,BIO301,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00061,STU_0212,SYS500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00062,STU_0285,SYS500,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00063,STU_0296,DATA410,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00064,STU_0061,AI310,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00065,STU_0083,DATA201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00066,STU_0174,STAT101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00067,STU_0003,SYS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00068,STU_0308,HCI401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00069,STU_0114,AI401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00070,STU_0197,SYS405,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00071,STU_0306,CS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00072,STU_0225,CS102,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00073,STU_0266,CS401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00074,STU_0307,EDGE101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00075,STU_0019,SEC405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00076,STU_0081,SYS201,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00077,STU_0181,SYS401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00078,STU_0266,CS102,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00079,STU_0282,CS401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00080,STU_0142,AI305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00081,STU_0207,CS101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00082,STU_0260,WEB201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00083,STU_0175,SEC201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00084,STU_0295,PROD301,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00085,STU_0289,SYS500,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00086,STU_0235,CS500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00087,STU_0133,CS205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00088,STU_0113,AI310,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00089,STU_0181,EDGE201,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00090,STU_0135,SE301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00091,STU_0176,MATH201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00092,STU_0182,AI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00093,STU_0098,PROD500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00094,STU_0124,HCI301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00095,STU_0128,SEC401,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00096,STU_0062,MATH205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00097,STU_0278,DES101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00098,STU_0162,PROD500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00099,STU_0262,BIO301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00100,STU_0296,PROD201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00101,STU_0217,SYS500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00102,STU_0202,DATA301,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00103,STU_0266,CS500,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00104,STU_0007,SEC305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00105,STU_0167,SEC405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00106,STU_0135,CLOUD301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00107,STU_0314,DATA405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00108,STU_0218,SEC305,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00109,STU_0191,SEC405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00110,STU_0093,PROD201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00111,STU_0139,CLOUD301,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00112,STU_0101,CS301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00113,STU_0005,DATA301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00114,STU_0265,CS420,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00115,STU_0288,STAT101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00116,STU_0084,CS201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00117,STU_0244,DATA201,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00118,STU_0134,SEC405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00119,STU_0132,DATA410,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00120,STU_0180,SEC301,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00121,STU_0146,SEC401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00122,STU_0250,BIO401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00123,STU_0147,DATA500,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00124,STU_0173,SE405,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00125,STU_0037,MATH205,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00126,STU_0161,CS420,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00127,STU_0310,SYS401,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00128,STU_0186,EDGE201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00129,STU_0095,MATH101,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00130,STU_0129,MATH205,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00131,STU_0053,DATA201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00132,STU_0243,STAT101,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00133,STU_0269,MATH205,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00134,STU_0080,MATH205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00135,STU_0127,CS401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00136,STU_0068,EDGE202,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00137,STU_0183,CS430,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00138,STU_0277,FIN301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00139,STU_0277,DATA301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00140,STU_0289,HCI401,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00141,STU_0247,AI310,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00142,STU_0188,SE401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00143,STU_0006,CS101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00144,STU_0241,CS102,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00145,STU_0245,CS410,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00146,STU_0150,AI310,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00147,STU_0097,SE401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00148,STU_0084,AI410,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00149,STU_0041,PROD401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00150,STU_0314,FIN301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00151,STU_0273,FIN301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00152,STU_0036,DATA305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00153,STU_0234,BIO401,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00154,STU_0252,SYS305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00155,STU_0026,MATH101,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00156,STU_0145,FIN301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00157,STU_0005,AI310,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00158,STU_0253,AI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00159,STU_0256,AI401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00160,STU_0017,DATA401,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00161,STU_0075,CS201,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00162,STU_0037,AI500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00163,STU_0129,AI405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00164,STU_0128,AI410,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00165,STU_0018,SEC301,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00166,STU_0049,EDGE201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00167,STU_0160,CS430,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00168,STU_0022,EDGE201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00169,STU_0153,SEC301,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00170,STU_0112,SEC201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00171,STU_0167,CS102,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00172,STU_0300,STAT201,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00173,STU_0005,DES101,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00174,STU_0080,AI401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00175,STU_0256,SYS201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00176,STU_0031,CS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00177,STU_0275,WEB201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00178,STU_0163,DATA410,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00179,STU_0011,AI405,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00180,STU_0129,DES101,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00181,STU_0287,CS405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00182,STU_0096,DATA410,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00183,STU_0141,CS305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00184,STU_0231,CS405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00185,STU_0233,CS101,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00186,STU_0010,SEC405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00187,STU_0033,AI410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00188,STU_0255,CS303,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00189,STU_0165,SEC201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00190,STU_0035,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00191,STU_0017,SEC301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00192,STU_0051,SYS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00193,STU_0270,PROD301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00194,STU_0311,MATH201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00195,STU_0107,SEC500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00196,STU_0032,SEC405,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00197,STU_0030,FIN301,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00198,STU_0156,MATH201,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00199,STU_0050,DATA201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00200,STU_0098,SYS305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00201,STU_0092,SE405,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00202,STU_0296,SEC401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00203,STU_0219,WEB201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00204,STU_0282,SYS405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00205,STU_0274,FIN401,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00206,STU_0282,CS430,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00207,STU_0221,CS430,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00208,STU_0110,AI405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00209,STU_0232,BIO401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00210,STU_0018,CS401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00211,STU_0155,CS101,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00212,STU_0110,CS420,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00213,STU_0142,EDGE101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00214,STU_0236,SEC401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00215,STU_0188,SE301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00216,STU_0154,SYS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00217,STU_0112,MATH201,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00218,STU_0089,SEC500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00219,STU_0154,SYS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00220,STU_0029,DATA401,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00221,STU_0223,SE405,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00222,STU_0117,CS102,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00223,STU_0269,DES101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00224,STU_0077,CS430,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00225,STU_0202,BIO401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00226,STU_0149,SYS401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00227,STU_0043,AI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00228,STU_0135,MATH205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00229,STU_0067,HCI201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00230,STU_0250,SYS401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00231,STU_0269,SE301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00232,STU_0221,CS430,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00233,STU_0212,PROD401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00234,STU_0165,DATA410,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00235,STU_0087,DATA410,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00236,STU_0226,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00237,STU_0192,CS303,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00238,STU_0028,SE301,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00239,STU_0148,CS102,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00240,STU_0057,CS415,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00241,STU_0170,SEC305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00242,STU_0268,HCI301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00243,STU_0073,MATH101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00244,STU_0270,DES101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00245,STU_0146,SEC301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00246,STU_0005,CS205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00247,STU_0185,WEB201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00248,STU_0198,AI310,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00249,STU_0051,CS420,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00250,STU_0273,SYS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00251,STU_0235,MATH101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00252,STU_0272,CS415,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00253,STU_0081,MATH101,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00254,STU_0182,CS410,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00255,STU_0257,BIO301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00256,STU_0199,DATA101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00257,STU_0175,SYS401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00258,STU_0196,EDGE201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00259,STU_0294,CS303,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00260,STU_0310,DATA401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00261,STU_0106,HCI201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00262,STU_0159,EDGE202,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00263,STU_0075,CS305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00264,STU_0273,STAT201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00265,STU_0075,DATA101,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00266,STU_0212,SE401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00267,STU_0141,CS303,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00268,STU_0095,DATA101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00269,STU_0314,AI310,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00270,STU_0014,SEC401,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00271,STU_0245,HCI201,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00272,STU_0192,DATA305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00273,STU_0071,CS305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00274,STU_0210,CS102,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00275,STU_0114,SEC301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00276,STU_0225,SEC500,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00277,STU_0127,PROD401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00278,STU_0312,AI405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00279,STU_0293,EDGE202,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00280,STU_0232,CS500,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00281,STU_0126,EDGE201,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00282,STU_0021,AI410,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00283,STU_0226,SYS401,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00284,STU_0147,DATA500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00285,STU_0314,STAT101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00286,STU_0232,SYS201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00287,STU_0300,HCI201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00288,STU_0231,DATA101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00289,STU_0104,CS500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00290,STU_0084,STAT201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00291,STU_0231,SEC405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00292,STU_0197,EDGE101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00293,STU_0195,DES101,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00294,STU_0290,CS303,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00295,STU_0092,STAT101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00296,STU_0229,CS401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00297,STU_0068,SEC301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00298,STU_0130,CS102,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00299,STU_0256,CS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00300,STU_0302,AI500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00301,STU_0041,CS101,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00302,STU_0143,SEC305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00303,STU_0029,DATA410,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00304,STU_0017,CS410,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00305,STU_0026,WEB201,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00306,STU_0083,CS401,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00307,STU_0297,SEC405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00308,STU_0154,CS430,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00309,STU_0035,PROD401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00310,STU_0069,STAT201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00311,STU_0212,EDGE202,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00312,STU_0314,CS201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00313,STU_0271,SYS201,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00314,STU_0310,CS401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00315,STU_0163,HCI301,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00316,STU_0315,PROD500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00317,STU_0093,AI310,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00318,STU_0001,STAT201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00319,STU_0061,SEC305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00320,STU_0171,DATA410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00321,STU_0104,CS401,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00322,STU_0158,CS410,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00323,STU_0059,DATA401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00324,STU_0292,DATA101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00325,STU_0174,SYS500,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00326,STU_0070,SYS500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00327,STU_0275,DATA401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00328,STU_0212,CS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00329,STU_0162,MATH101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00330,STU_0170,SEC401,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00331,STU_0144,DATA101,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00332,STU_0274,CS308,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00333,STU_0060,CS415,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00334,STU_0140,SE401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00335,STU_0122,AI401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00336,STU_0155,AI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00337,STU_0192,SYS101,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00338,STU_0228,HCI500,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00339,STU_0257,CS303,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00340,STU_0248,EDGE202,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00341,STU_0074,DATA201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00342,STU_0019,CS500,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00343,STU_0268,SEC201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00344,STU_0023,SYS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00345,STU_0024,WEB201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00346,STU_0160,SEC305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00347,STU_0147,BIO301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00348,STU_0061,FIN301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00349,STU_0059,CS102,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00350,STU_0180,CS420,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00351,STU_0146,SE301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00352,STU_0314,DATA405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00353,STU_0015,AI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00354,STU_0028,SYS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00355,STU_0306,BIO401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00356,STU_0102,MATH205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00357,STU_0048,DATA500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00358,STU_0239,AI500,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00359,STU_0074,HCI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00360,STU_0170,CS430,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00361,STU_0034,AI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00362,STU_0237,CS308,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00363,STU_0310,PROD201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00364,STU_0055,CS430,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00365,STU_0273,DATA500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00366,STU_0123,SE301,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00367,STU_0197,CS205,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00368,STU_0303,HCI401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00369,STU_0176,CLOUD301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00370,STU_0040,SEC500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00371,STU_0238,CS430,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00372,STU_0091,CS415,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00373,STU_0056,AI405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00374,STU_0032,SYS201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00375,STU_0298,CS101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00376,STU_0232,CS405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00377,STU_0229,SEC301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00378,STU_0163,CS410,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00379,STU_0223,DATA410,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00380,STU_0314,EDGE101,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00381,STU_0151,CS201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00382,STU_0028,CS101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00383,STU_0145,DATA101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00384,STU_0303,SYS401,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00385,STU_0208,AI405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00386,STU_0089,AI500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00387,STU_0197,SEC405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00388,STU_0065,HCI201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00389,STU_0009,CS301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00390,STU_0070,MATH205,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00391,STU_0213,CS500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00392,STU_0233,EDGE101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00393,STU_0231,AI410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00394,STU_0218,CS101,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00395,STU_0122,HCI500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00396,STU_0280,SEC405,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00397,STU_0291,SYS500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00398,STU_0247,MATH205,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00399,STU_0270,BIO301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00400,STU_0268,SYS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00401,STU_0040,CS415,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00402,STU_0274,CS102,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00403,STU_0241,DATA401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00404,STU_0151,CS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00405,STU_0306,CS410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00406,STU_0243,CS308,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00407,STU_0150,DATA101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00408,STU_0065,HCI500,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00409,STU_0143,PROD301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00410,STU_0141,PROD301,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00411,STU_0310,DATA301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00412,STU_0190,DATA301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00413,STU_0121,SEC500,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00414,STU_0017,DATA405,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00415,STU_0305,CS303,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00416,STU_0212,AI410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00417,STU_0086,SEC305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00418,STU_0136,SEC201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00419,STU_0205,AI500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00420,STU_0273,AI310,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00421,STU_0200,AI500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00422,STU_0223,CS102,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00423,STU_0230,AI405,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00424,STU_0022,DATA201,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00425,STU_0222,FIN301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00426,STU_0051,PROD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00427,STU_0124,SYS305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00428,STU_0093,CS420,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00429,STU_0035,CS102,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00430,STU_0054,BIO401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00431,STU_0146,PROD301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00432,STU_0318,SYS201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00433,STU_0112,STAT201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00434,STU_0310,PROD201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00435,STU_0290,DATA305,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00436,STU_0130,CS405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00437,STU_0039,CS500,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00438,STU_0166,PROD301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00439,STU_0142,CS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00440,STU_0031,HCI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00441,STU_0036,SEC500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00442,STU_0092,SEC500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00443,STU_0221,AI301,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00444,STU_0133,WEB201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00445,STU_0293,PROD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00446,STU_0255,CS303,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00447,STU_0200,FIN301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00448,STU_0201,CS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00449,STU_0207,CS205,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00450,STU_0247,STAT201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00451,STU_0156,SYS405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00452,STU_0047,SEC405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00453,STU_0236,CS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00454,STU_0021,AI410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00455,STU_0200,WEB201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00456,STU_0225,SYS305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00457,STU_0013,CLOUD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00458,STU_0277,CS415,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00459,STU_0231,MATH101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00460,STU_0173,DES101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00461,STU_0268,CS500,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00462,STU_0120,MATH201,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00463,STU_0251,MATH101,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00464,STU_0317,DES101,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00465,STU_0067,CS102,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00466,STU_0158,DATA201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00467,STU_0303,CS205,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00468,STU_0305,AI305,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00469,STU_0219,DATA405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00470,STU_0295,HCI201,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00471,STU_0110,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00472,STU_0062,BIO301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00473,STU_0087,AI401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00474,STU_0298,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00475,STU_0314,AI405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00476,STU_0250,MATH205,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00477,STU_0046,CS401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00478,STU_0244,PROD201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00479,STU_0139,EDGE201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00480,STU_0090,SYS101,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00481,STU_0314,SYS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00482,STU_0003,CLOUD301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00483,STU_0272,DATA201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00484,STU_0277,HCI500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00485,STU_0107,BIO301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00486,STU_0077,AI500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00487,STU_0023,STAT101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00488,STU_0223,PROD301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00489,STU_0233,DES101,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00490,STU_0276,DATA301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00491,STU_0249,EDGE101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00492,STU_0121,FIN401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00493,STU_0167,AI310,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00494,STU_0051,CLOUD301,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00495,STU_0193,AI305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00496,STU_0249,STAT101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00497,STU_0313,CS500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00498,STU_0070,CS500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00499,STU_0139,SEC301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00500,STU_0292,CS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00501,STU_0239,CS500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00502,STU_0176,AI305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00503,STU_0314,CS308,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00504,STU_0268,SEC500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00505,STU_0237,BIO301,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00506,STU_0127,SE301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00507,STU_0114,CS303,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00508,STU_0023,DES101,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00509,STU_0259,SYS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00510,STU_0246,DATA201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00511,STU_0043,CS102,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00512,STU_0068,SEC401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00513,STU_0047,MATH101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00514,STU_0083,CS500,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00515,STU_0238,HCI201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00516,STU_0190,DATA500,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00517,STU_0037,AI410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00518,STU_0152,PROD401,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00519,STU_0314,SEC305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00520,STU_0172,CS201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00521,STU_0057,AI410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00522,STU_0021,SEC405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00523,STU_0287,CS205,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00524,STU_0172,CLOUD301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00525,STU_0298,SEC305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00526,STU_0137,HCI500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00527,STU_0033,AI401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00528,STU_0257,EDGE202,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00529,STU_0273,CS405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00530,STU_0034,SYS305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00531,STU_0201,DATA301,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00532,STU_0040,WEB201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00533,STU_0076,PROD500,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00534,STU_0267,MATH101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00535,STU_0278,PROD201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00536,STU_0228,MATH101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00537,STU_0012,AI310,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00538,STU_0176,CS430,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00539,STU_0272,FIN401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00540,STU_0068,CS415,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00541,STU_0117,SYS500,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00542,STU_0025,CS301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00543,STU_0086,CS305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00544,STU_0090,CS303,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00545,STU_0022,CS420,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00546,STU_0190,DATA305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00547,STU_0018,CS420,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00548,STU_0230,CS305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00549,STU_0013,SYS405,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00550,STU_0235,CS420,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00551,STU_0280,HCI500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00552,STU_0152,AI500,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00553,STU_0294,CS301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00554,STU_0058,SYS500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00555,STU_0283,SEC201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00556,STU_0317,AI305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00557,STU_0168,CS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00558,STU_0114,BIO301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00559,STU_0276,BIO401,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00560,STU_0202,SYS305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00561,STU_0310,EDGE101,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00562,STU_0185,SYS401,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00563,STU_0219,AI401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00564,STU_0146,DATA410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00565,STU_0229,SYS201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00566,STU_0228,SE405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00567,STU_0218,SE405,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00568,STU_0307,SYS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00569,STU_0244,EDGE202,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00570,STU_0303,AI405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00571,STU_0140,SE405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00572,STU_0291,HCI201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00573,STU_0196,CS405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00574,STU_0155,CS410,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00575,STU_0238,AI305,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00576,STU_0079,HCI301,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00577,STU_0242,STAT201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00578,STU_0252,SE301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00579,STU_0142,PROD500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00580,STU_0186,SYS500,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00581,STU_0244,STAT201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00582,STU_0295,MATH101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00583,STU_0030,CS301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00584,STU_0070,SEC401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00585,STU_0185,SE405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00586,STU_0150,EDGE202,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00587,STU_0094,DATA201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00588,STU_0162,CS410,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00589,STU_0186,DATA201,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00590,STU_0007,HCI201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00591,STU_0249,SE401,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00592,STU_0084,WEB201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00593,STU_0114,SYS305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00594,STU_0040,SEC201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00595,STU_0246,DATA410,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00596,STU_0072,FIN401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00597,STU_0156,DATA101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00598,STU_0073,AI310,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00599,STU_0067,MATH205,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00600,STU_0058,MATH201,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00601,STU_0221,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00602,STU_0263,CS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00603,STU_0130,DES101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00604,STU_0006,DATA201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00605,STU_0106,SEC301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00606,STU_0015,SYS201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00607,STU_0143,DATA410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00608,STU_0257,CLOUD301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00609,STU_0297,CS102,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00610,STU_0145,CS308,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00611,STU_0051,AI301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00612,STU_0302,DATA305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00613,STU_0055,DATA305,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00614,STU_0218,AI301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00615,STU_0161,STAT201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00616,STU_0070,PROD500,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00617,STU_0286,DES101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00618,STU_0060,AI410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00619,STU_0160,FIN401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00620,STU_0149,PROD401,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00621,STU_0244,AI401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00622,STU_0252,WEB201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00623,STU_0044,STAT201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00624,STU_0303,WEB201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00625,STU_0102,DATA405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00626,STU_0207,STAT201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00627,STU_0256,BIO301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00628,STU_0205,SEC401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00629,STU_0208,SEC500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00630,STU_0233,WEB201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00631,STU_0255,AI310,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00632,STU_0028,CS205,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00633,STU_0092,AI405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00634,STU_0319,DATA201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00635,STU_0267,PROD500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00636,STU_0255,SEC500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00637,STU_0277,MATH101,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00638,STU_0061,AI410,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00639,STU_0193,FIN401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00640,STU_0091,CS410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00641,STU_0069,CS415,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00642,STU_0057,SEC500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00643,STU_0081,HCI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00644,STU_0254,AI405,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00645,STU_0146,CS430,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00646,STU_0024,PROD201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00647,STU_0299,DATA101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00648,STU_0220,DATA410,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00649,STU_0029,SE301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00650,STU_0160,MATH205,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00651,STU_0059,DATA405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00652,STU_0167,SYS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00653,STU_0217,EDGE101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00654,STU_0241,MATH101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00655,STU_0200,CS430,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00656,STU_0052,SEC305,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00657,STU_0174,CS308,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00658,STU_0224,SEC301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00659,STU_0039,AI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00660,STU_0153,SYS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00661,STU_0048,DATA201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00662,STU_0291,EDGE202,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00663,STU_0178,MATH201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00664,STU_0154,HCI401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00665,STU_0206,PROD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00666,STU_0281,DATA305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00667,STU_0265,DATA305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00668,STU_0240,FIN301,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00669,STU_0031,EDGE201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00670,STU_0076,CLOUD301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00671,STU_0154,HCI401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00672,STU_0033,SEC305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00673,STU_0147,CS305,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00674,STU_0121,SYS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00675,STU_0099,DATA101,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00676,STU_0159,DATA500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00677,STU_0224,PROD401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00678,STU_0140,HCI201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00679,STU_0143,DATA301,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00680,STU_0249,MATH101,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00681,STU_0043,CS420,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00682,STU_0209,SEC405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00683,STU_0072,CLOUD301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00684,STU_0257,STAT201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00685,STU_0047,CLOUD301,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00686,STU_0161,DATA401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00687,STU_0121,PROD401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00688,STU_0090,AI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00689,STU_0131,CS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00690,STU_0058,CS420,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00691,STU_0127,BIO301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00692,STU_0189,CS415,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00693,STU_0311,SYS101,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00694,STU_0123,PROD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00695,STU_0186,STAT201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00696,STU_0199,CS102,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00697,STU_0131,CS410,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00698,STU_0121,CS410,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00699,STU_0083,FIN401,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00700,STU_0209,SYS101,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00701,STU_0252,AI500,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00702,STU_0171,PROD401,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00703,STU_0134,HCI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00704,STU_0309,CS430,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00705,STU_0027,DATA305,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00706,STU_0070,CS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00707,STU_0157,CS420,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00708,STU_0128,EDGE201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00709,STU_0211,CS420,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00710,STU_0069,HCI301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00711,STU_0168,CS401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00712,STU_0189,DATA305,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00713,STU_0293,AI305,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00714,STU_0286,AI310,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00715,STU_0102,HCI301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00716,STU_0317,PROD401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00717,STU_0189,CS308,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00718,STU_0270,HCI401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00719,STU_0254,STAT201,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00720,STU_0098,FIN301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00721,STU_0196,PROD201,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00722,STU_0308,AI301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00723,STU_0097,SE405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00724,STU_0075,DATA101,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00725,STU_0121,BIO401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00726,STU_0235,MATH205,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00727,STU_0166,SYS401,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00728,STU_0217,PROD301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00729,STU_0031,STAT101,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00730,STU_0242,SEC401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00731,STU_0259,AI405,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00732,STU_0190,PROD201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00733,STU_0134,CS308,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00734,STU_0240,PROD201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00735,STU_0272,HCI401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00736,STU_0161,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00737,STU_0144,SEC405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00738,STU_0135,HCI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00739,STU_0085,CS420,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00740,STU_0078,FIN401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00741,STU_0028,AI310,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00742,STU_0134,CS305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00743,STU_0254,DES101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00744,STU_0288,SEC500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00745,STU_0076,STAT201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00746,STU_0146,DATA305,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00747,STU_0140,AI301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00748,STU_0293,DATA305,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00749,STU_0127,PROD500,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00750,STU_0014,CS401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00751,STU_0303,WEB201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00752,STU_0042,CS500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00753,STU_0138,CS101,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00754,STU_0319,BIO401,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00755,STU_0292,PROD201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00756,STU_0145,CS430,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00757,STU_0281,AI405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00758,STU_0092,CLOUD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00759,STU_0107,CS305,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00760,STU_0146,CS303,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00761,STU_0222,CS415,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00762,STU_0050,AI401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00763,STU_0199,AI500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00764,STU_0217,SYS201,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00765,STU_0315,DATA305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00766,STU_0048,DES101,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00767,STU_0115,CS303,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00768,STU_0269,MATH205,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00769,STU_0041,SYS500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00770,STU_0066,CS410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00771,STU_0152,STAT101,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00772,STU_0263,WEB201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00773,STU_0238,PROD301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00774,STU_0042,HCI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00775,STU_0237,DATA301,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00776,STU_0024,MATH205,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00777,STU_0153,CS420,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00778,STU_0231,HCI301,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00779,STU_0096,AI301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00780,STU_0310,HCI301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00781,STU_0010,CS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00782,STU_0088,SYS500,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00783,STU_0309,SEC500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00784,STU_0316,SEC405,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00785,STU_0045,PROD201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00786,STU_0058,MATH101,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00787,STU_0108,SYS500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00788,STU_0224,SYS305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00789,STU_0238,CS301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00790,STU_0060,CS308,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00791,STU_0228,SEC500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00792,STU_0231,SE301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00793,STU_0201,STAT101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00794,STU_0222,SE405,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00795,STU_0306,CS405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00796,STU_0249,EDGE101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00797,STU_0032,EDGE202,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00798,STU_0162,CS205,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00799,STU_0214,AI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00800,STU_0178,BIO401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00801,STU_0148,SYS305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00802,STU_0119,HCI500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00803,STU_0174,DATA500,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00804,STU_0200,SE405,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00805,STU_0083,SEC305,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00806,STU_0045,SYS500,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00807,STU_0081,SEC500,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00808,STU_0253,CS410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00809,STU_0025,MATH101,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00810,STU_0183,CS305,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00811,STU_0258,SYS101,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00812,STU_0059,AI310,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00813,STU_0250,HCI301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00814,STU_0024,FIN301,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00815,STU_0264,WEB201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00816,STU_0225,CS500,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00817,STU_0313,WEB201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00818,STU_0086,STAT201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00819,STU_0081,CS405,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00820,STU_0256,DATA201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00821,STU_0172,HCI201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00822,STU_0225,SE405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00823,STU_0243,DATA405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00824,STU_0044,FIN301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00825,STU_0213,SEC405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00826,STU_0272,SE405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00827,STU_0220,SE401,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00828,STU_0265,SEC405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00829,STU_0006,EDGE201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00830,STU_0162,SYS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00831,STU_0202,SYS101,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00832,STU_0030,EDGE201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00833,STU_0284,CS410,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00834,STU_0005,BIO301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00835,STU_0229,SEC305,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00836,STU_0208,SEC301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00837,STU_0276,DATA401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00838,STU_0065,EDGE201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00839,STU_0262,CS415,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00840,STU_0082,MATH101,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00841,STU_0277,HCI301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00842,STU_0156,PROD401,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00843,STU_0191,HCI301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00844,STU_0064,BIO401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00845,STU_0003,CS500,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00846,STU_0298,AI310,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00847,STU_0294,HCI201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00848,STU_0127,WEB201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00849,STU_0099,SEC405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00850,STU_0218,SE401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00851,STU_0218,PROD201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00852,STU_0040,AI401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00853,STU_0266,SYS401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00854,STU_0217,FIN401,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00855,STU_0214,CS305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00856,STU_0249,CS500,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00857,STU_0263,EDGE202,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00858,STU_0234,AI500,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00859,STU_0287,AI401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00860,STU_0210,SEC201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00861,STU_0149,DES101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00862,STU_0157,AI401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00863,STU_0015,CS301,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00864,STU_0216,STAT101,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00865,STU_0111,DATA305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00866,STU_0281,DATA410,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00867,STU_0214,SYS500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00868,STU_0173,AI405,Spring 2026,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00869,STU_0311,PROD201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00870,STU_0236,BIO401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00871,STU_0167,SYS201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00872,STU_0203,DATA405,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00873,STU_0227,BIO301,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00874,STU_0013,CS415,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00875,STU_0044,SYS305,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00876,STU_0268,SYS305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00877,STU_0010,STAT201,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00878,STU_0141,SEC305,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00879,STU_0297,FIN401,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00880,STU_0311,CS430,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00881,STU_0252,MATH101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00882,STU_0213,DATA101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00883,STU_0047,SEC201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00884,STU_0147,CS301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00885,STU_0046,CS303,Fall 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00886,STU_0087,CS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00887,STU_0030,CS410,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00888,STU_0073,SE401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00889,STU_0062,STAT101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00890,STU_0306,CLOUD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00891,STU_0259,AI410,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00892,STU_0163,DATA500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00893,STU_0015,SE401,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00894,STU_0010,FIN301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00895,STU_0285,PROD201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00896,STU_0229,MATH205,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00897,STU_0073,AI401,Spring 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00898,STU_0276,PROD401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00899,STU_0238,CS405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00900,STU_0247,FIN301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00901,STU_0195,DATA410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00902,STU_0262,CS401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00903,STU_0274,CS205,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00904,STU_0063,HCI201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00905,STU_0108,HCI500,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00906,STU_0176,HCI301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00907,STU_0165,DATA405,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00908,STU_0307,DATA401,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00909,STU_0069,CS101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00910,STU_0005,DATA301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00911,STU_0251,SYS401,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00912,STU_0040,DATA101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00913,STU_0181,AI405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00914,STU_0005,STAT201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00915,STU_0099,FIN401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00916,STU_0011,BIO301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00917,STU_0315,CS410,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00918,STU_0253,SEC405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00919,STU_0311,SEC305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00920,STU_0203,SEC201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00921,STU_0253,CS308,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00922,STU_0290,DATA301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00923,STU_0034,PROD201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00924,STU_0117,EDGE201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00925,STU_0012,PROD301,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00926,STU_0219,STAT101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00927,STU_0209,BIO301,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00928,STU_0239,PROD500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00929,STU_0023,AI305,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00930,STU_0216,BIO401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00931,STU_0100,DATA401,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00932,STU_0013,AI305,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00933,STU_0128,SEC301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00934,STU_0033,DATA201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00935,STU_0013,DATA401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00936,STU_0243,CLOUD301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00937,STU_0171,EDGE201,Spring 2025,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00938,STU_0308,FIN401,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00939,STU_0297,STAT201,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00940,STU_0018,AI405,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00941,STU_0034,PROD201,Fall 2024,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00942,STU_0227,CS201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00943,STU_0222,CS205,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00944,STU_0287,STAT101,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00945,STU_0206,DATA201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00946,STU_0307,CS102,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00947,STU_0220,DATA201,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00948,STU_0014,CS500,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00949,STU_0056,WEB201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00950,STU_0035,SYS305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00951,STU_0132,SEC401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00952,STU_0318,FIN401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00953,STU_0023,CS201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00954,STU_0224,EDGE101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00955,STU_0278,CS301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00956,STU_0309,DATA405,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00957,STU_0005,EDGE201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00958,STU_0260,STAT101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00959,STU_0103,SEC301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00960,STU_0244,DATA500,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00961,STU_0290,DATA401,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00962,STU_0084,WEB201,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00963,STU_0022,PROD500,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00964,STU_0115,AI310,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00965,STU_0123,SYS500,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00966,STU_0193,SEC305,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00967,STU_0004,SEC405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00968,STU_0016,SEC201,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00969,STU_0100,SEC405,Fall 2024,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00970,STU_0102,SEC301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00971,STU_0135,DATA301,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00972,STU_0126,DATA301,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00973,STU_0135,DATA201,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00974,STU_0071,AI405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00975,STU_0108,CS415,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00976,STU_0191,CS308,Spring 2026,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00977,STU_0034,STAT201,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00978,STU_0067,SYS305,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00979,STU_0192,CS420,Spring 2026,unaligned_pathway_switch,Elective did not advance stated degree pathway; prompted major change.
+EVT_00980,STU_0126,DES101,Spring 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00981,STU_0151,CS303,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00982,STU_0144,PROD201,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00983,STU_0042,AI500,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00984,STU_0199,EDGE101,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00985,STU_0238,DATA301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00986,STU_0270,SYS500,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00987,STU_0298,SYS405,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00988,STU_0104,BIO401,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00989,STU_0157,PROD401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00990,STU_0192,PROD301,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00991,STU_0044,CS405,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00992,STU_0118,DES101,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00993,STU_0173,PROD401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00994,STU_0210,AI401,Spring 2026,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00995,STU_0196,DATA101,Spring 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00996,STU_0136,MATH201,Fall 2025,schedule_conflict_dropped,Overlapping timeslot with mandatory core course; dropped before census date.
+EVT_00997,STU_0151,HCI500,Fall 2024,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.
+EVT_00998,STU_0117,DATA201,Fall 2024,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_00999,STU_0020,SEC301,Fall 2025,completed_with_success,Student satisfied all prerequisites and completed curriculum milestone.
+EVT_01000,STU_0169,PROD301,Fall 2025,prerequisite_violation_dropped,Student enrolled without foundational course; dropped in Week 2.

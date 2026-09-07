@@ -1,0 +1,139 @@
+pathway_id,course_id,weight,rationale
+PW_ML_ENG,CS101,0.5,Foundational programming required for ML scripts.
+PW_ML_ENG,CS102,0.5,Discrete structures and graph representations.
+PW_ML_ENG,MATH101,0.6,Differential calculus foundations for gradient descent.
+PW_ML_ENG,STAT101,0.6,Introductory probability and empirical distributions.
+PW_ML_ENG,CS201,0.8,Algorithms essential for complex tensor structures and graph processing.
+PW_ML_ENG,MATH201,0.7,Multivariable calculus for vector derivatives and loss gradients.
+PW_ML_ENG,MATH205,0.9,Vector algebra and matrix decomposition are mathematical core of deep learning.
+PW_ML_ENG,STAT201,0.9,Probability theory necessary to understand generative models and loss distributions.
+PW_ML_ENG,CS305,1.0,Core prerequisite covering classical machine learning paradigms.
+PW_ML_ENG,CS405,1.0,State-of-the-art deep architectures and backpropagation optimization.
+PW_ML_ENG,CS410,0.9,"Production deployment, inference latency, and feature store architectures."
+PW_ML_ENG,AI401,0.8,Modern generative foundation models and retrieval-augmented pipelines.
+PW_ML_ENG,CLOUD301,0.6,Containerized model deployment in cloud environments.
+PW_ML_ENG,AI500,0.9,Capstone verifying end-to-end ML engineering capability.
+PW_DATA_SCI,DATA101,0.8,Introduction to exploratory analysis and data ethics.
+PW_DATA_SCI,STAT101,0.8,Foundational statistical hypothesis testing and descriptive inference.
+PW_DATA_SCI,CS101,0.6,Python programming for data wrangling scripts.
+PW_DATA_SCI,MATH101,0.6,Calculus for statistical density and continuous distributions.
+PW_DATA_SCI,DATA201,0.9,"Relational data extraction, normalization, and complex querying."
+PW_DATA_SCI,CS201,0.7,Data structures for memory-efficient feature engineering.
+PW_DATA_SCI,MATH205,0.8,Linear algebra required for PCA and dimensional reduction.
+PW_DATA_SCI,STAT201,0.9,Bayesian estimation and stochastic distributions.
+PW_DATA_SCI,CS305,0.9,Predictive modeling and classification/regression algorithms.
+PW_DATA_SCI,DATA305,0.9,Statistical visual communication and exploratory charting.
+PW_DATA_SCI,DATA405,0.9,Causal inference and quasi-experimental econometric evaluation.
+PW_DATA_SCI,DATA500,0.9,Production capstone demonstrating predictive data science value.
+PW_CLOUD_DEVOPS,CS101,0.5,Scripting for automation and cloud configuration.
+PW_CLOUD_DEVOPS,SYS101,0.6,Computer organization and hardware architecture.
+PW_CLOUD_DEVOPS,CS102,0.5,Logic gates and networking foundations.
+PW_CLOUD_DEVOPS,SYS201,0.8,POSIX systems and memory interaction.
+PW_CLOUD_DEVOPS,CS201,0.7,Data structures for distributed routing algorithms.
+PW_CLOUD_DEVOPS,CS301,0.9,"Process isolation, concurrency, and virtual memory underpinning containers."
+PW_CLOUD_DEVOPS,CS303,0.9,"Network routing, DNS, and TLS protocols essential for cloud routing."
+PW_CLOUD_DEVOPS,CLOUD301,1.0,"Core cloud infrastructure, virtual networks, and container engines."
+PW_CLOUD_DEVOPS,CS401,0.9,"Distributed consensus (Raft, Paxos) and cloud storage partitions."
+PW_CLOUD_DEVOPS,CS415,1.0,Kubernetes microservices orchestration and cloud-native patterns.
+PW_CLOUD_DEVOPS,CS430,1.0,"Site reliability engineering, observability telemetry, and chaos engineering."
+PW_CLOUD_DEVOPS,SEC401,0.8,Identity and access management (IAM) and cloud zero-trust.
+PW_CLOUD_DEVOPS,SYS500,0.9,High-performance distributed cluster systems capstone.
+PW_CYBERSEC,CS101,0.5,Scripting for automation and payload analysis.
+PW_CYBERSEC,SYS101,0.6,Logic architecture and hardware security foundations.
+PW_CYBERSEC,CS102,0.5,Discrete math and boolean logic for cryptosystems.
+PW_CYBERSEC,SYS201,0.8,Low-level memory layouts required to understand exploitation techniques.
+PW_CYBERSEC,CS201,0.7,Data structures for malware disassembly and graph modeling.
+PW_CYBERSEC,CS303,0.9,"Network packets, firewalls, and cryptographic handshakes."
+PW_CYBERSEC,SEC201,1.0,"Core security principles, threat modeling, and symmetric/asymmetric ciphers."
+PW_CYBERSEC,SEC301,0.9,"Applied cryptography, public key infrastructure, and protocol security."
+PW_CYBERSEC,SEC305,0.9,Source code vulnerability assessment and memory corruption remediation.
+PW_CYBERSEC,SEC401,0.9,Cloud identity perimeter defense and infrastructure hardening.
+PW_CYBERSEC,SEC405,1.0,"Penetration testing, exploitation methodologies, and red team defense."
+PW_CYBERSEC,SEC500,1.0,Defensive cyber range and forensic incident response capstone.
+PW_FULLSTACK,CS101,0.6,Introductory programming logic.
+PW_FULLSTACK,CS102,0.5,Discrete mathematics and state machine logic.
+PW_FULLSTACK,DES101,0.6,Visual layout principles and typography for user interfaces.
+PW_FULLSTACK,DATA101,0.5,Data manipulation and storage concepts.
+PW_FULLSTACK,CS201,0.8,Data structures for fast client and server state processing.
+PW_FULLSTACK,CS205,0.8,Object-oriented design patterns for maintainable codebases.
+PW_FULLSTACK,DATA201,0.8,Relational schema modeling and transaction persistence.
+PW_FULLSTACK,WEB201,1.0,Modern reactive client architecture and browser rendering lifecycle.
+PW_FULLSTACK,CS308,1.0,REST/GraphQL API design and backend middleware engineering.
+PW_FULLSTACK,SE301,0.8,"Automated unit, integration, and end-to-end regression testing."
+PW_FULLSTACK,SE401,0.9,"Enterprise system architecture, CQRS, and domain-driven design."
+PW_FULLSTACK,CS500,0.9,Full-scale software engineering capstone.
+PW_PROD_MGR,DATA101,0.7,Data literacy and quantitative decision framing.
+PW_PROD_MGR,DES101,0.7,Visual hierarchy and empathetic user experience foundations.
+PW_PROD_MGR,CS101,0.6,Technical literacy to converse with software engineering teams.
+PW_PROD_MGR,STAT101,0.6,Statistical hypothesis testing for feature experimentation.
+PW_PROD_MGR,PROD201,1.0,"Core product lifecycle management, user research, and roadmapping."
+PW_PROD_MGR,DATA201,0.7,SQL querying to analyze user telemetry independently.
+PW_PROD_MGR,PROD301,1.0,"A/B testing, cohort retention analytics, and metric architecture."
+PW_PROD_MGR,DATA305,0.8,Data storytelling for executive and customer presentations.
+PW_PROD_MGR,AI310,0.8,Responsible technology governance and regulatory compliance.
+PW_PROD_MGR,PROD401,1.0,End-to-end product incubation leadership and commercialization.
+PW_PROD_MGR,PROD500,1.0,Comprehensive venture launch capstone.
+PW_SYS_ENG,SYS101,0.8,Hardware logic gates and register-transfer-level architecture.
+PW_SYS_ENG,CS101,0.5,Algorithmic foundation.
+PW_SYS_ENG,CS102,0.5,Boolean algebra and discrete logic circuits.
+PW_SYS_ENG,SYS201,1.0,"C systems programming, pointers, and POSIX interface."
+PW_SYS_ENG,CS201,0.8,Memory-efficient data structures for constrained systems.
+PW_SYS_ENG,CS301,1.0,Operating system kernel internals and interrupt servicing.
+PW_SYS_ENG,SYS305,0.9,Hardware concurrency and lock-free thread synchronizations.
+PW_SYS_ENG,SYS401,1.0,Real-time operating systems (RTOS) and micro-controller scheduling.
+PW_SYS_ENG,SYS405,0.9,Hardware-software co-design and FPGA custom logic accelerators.
+PW_SYS_ENG,SYS500,0.9,High-performance systems engineering capstone.
+PW_AI_ETHICS,DATA101,0.8,Societal impacts of data collection and privacy rights.
+PW_AI_ETHICS,STAT101,0.7,Statistical foundations to understand population bias.
+PW_AI_ETHICS,CS101,0.6,Algorithmic understanding for technical auditing.
+PW_AI_ETHICS,DATA201,0.6,Data persistence and relational compliance schema.
+PW_AI_ETHICS,AI310,1.0,"Foundational AI ethics, governance models, and sociotechnical frameworks."
+PW_AI_ETHICS,DATA301,0.7,Data lineage and ETL audit pipelines.
+PW_AI_ETHICS,DATA410,0.9,Data compliance frameworks (GDPR) and differential privacy.
+PW_AI_ETHICS,AI410,1.0,"Algorithmic auditing toolkits, disparity metrics, and model cards."
+PW_AI_ETHICS,CS305,0.7,Technical awareness of machine learning algorithms under audit.
+PW_AI_ETHICS,AI500,0.8,Ethical autonomous systems capstone.
+PW_DATA_ENG,CS101,0.6,Core programming for ETL automation.
+PW_DATA_ENG,CS102,0.5,Discrete graph structures for pipeline dependency DAGs.
+PW_DATA_ENG,DATA101,0.6,Introduction to exploratory data systems and tabular storage.
+PW_DATA_ENG,CS201,0.8,Tree and graph algorithms for DAG orchestrators.
+PW_DATA_ENG,DATA201,1.0,"Relational databases, indexing, and SQL optimization."
+PW_DATA_ENG,SYS201,0.7,Systems programming and memory management for high-throughput batching.
+PW_DATA_ENG,DATA301,1.0,"Data warehousing, star schemas, and batch pipelines."
+PW_DATA_ENG,CS301,0.8,"Filesystem internals, buffer caching, and disk I/O management."
+PW_DATA_ENG,CLOUD301,0.8,Cloud compute and scalable storage layers (S3/blob).
+PW_DATA_ENG,DATA401,1.0,Distributed streaming engines (Kafka/Flink) and real-time joins.
+PW_DATA_ENG,CS401,0.9,Distributed storage systems and consensus protocols.
+PW_DATA_ENG,DATA500,0.9,Enterprise data systems capstone.
+PW_UX_ENG,DES101,0.9,"Visual design, layout systems, and visual balance."
+PW_UX_ENG,CS101,0.6,Coding foundations for dynamic interface logic.
+PW_UX_ENG,HCI201,1.0,Cognitive interaction principles and usability heuristics.
+PW_UX_ENG,WEB201,1.0,Interactive DOM components and responsive styling.
+PW_UX_ENG,CS201,0.7,Data structures for rendering tree traversals.
+PW_UX_ENG,CS205,0.7,Component-based object-oriented frontend patterns.
+PW_UX_ENG,HCI301,1.0,Universal web accessibility (WCAG 2.1 AA/AAA) and assistive tools.
+PW_UX_ENG,SE405,0.8,Mobile touch ergonomics and native UX behaviors.
+PW_UX_ENG,HCI401,0.9,"Spatial interfaces, AR/VR, and multimodal interaction."
+PW_UX_ENG,HCI500,1.0,Universal accessibility studio capstone.
+PW_FINTECH,MATH101,0.7,Calculus for continuous rate of return and derivatives.
+PW_FINTECH,STAT101,0.7,Descriptive statistics and variance measures.
+PW_FINTECH,CS101,0.6,Financial algorithmic logic and script execution.
+PW_FINTECH,SYS101,0.5,Hardware architecture and clock cycles for latency analysis.
+PW_FINTECH,MATH205,0.8,Linear algebra for covariance matrices.
+PW_FINTECH,STAT201,0.9,Stochastic processes and probability densities.
+PW_FINTECH,SYS201,0.8,Low-latency systems programming.
+PW_FINTECH,CS201,0.7,Order book queue and heap data structures.
+PW_FINTECH,FIN301,1.0,Computational finance models and portfolio optimization.
+PW_FINTECH,SYS305,0.9,Concurrent multi-core trade book processing.
+PW_FINTECH,FIN401,1.0,High-frequency trade execution and market microstructure.
+PW_FINTECH,CS401,0.8,Distributed ledgers and decentralized consensus.
+PW_BIOINFO,CS101,0.6,Python scripting for FASTA and biological formats.
+PW_BIOINFO,CS102,0.5,Discrete math for genomic sequence combinatorics.
+PW_BIOINFO,STAT101,0.7,Biostatistical distributions and p-value significance.
+PW_BIOINFO,CS201,0.9,Graph theory and string matching algorithms for DNA sequences.
+PW_BIOINFO,STAT201,0.8,Biostatistical hypothesis testing and variance analysis.
+PW_BIOINFO,DATA201,0.7,Relational databases for clinical trials and patient registries.
+PW_BIOINFO,BIO301,1.0,"Computational molecular biology algorithms (BLAST, Smith-Waterman)."
+PW_BIOINFO,CS305,0.8,Machine learning for classification of biological phenotypes.
+PW_BIOINFO,BIO401,1.0,"Genomic machine learning, molecular GNNs, and drug discovery."
+PW_BIOINFO,DATA301,0.7,Big data pipeline processing for high-throughput sequencing.

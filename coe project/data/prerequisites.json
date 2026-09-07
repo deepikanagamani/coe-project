@@ -1,0 +1,532 @@
+[
+  {
+    "course_id": "CS201",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS201",
+    "prerequisite_course_id": "CS102",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS205",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "MATH201",
+    "prerequisite_course_id": "MATH101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "MATH205",
+    "prerequisite_course_id": "MATH101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "MATH205",
+    "prerequisite_course_id": "CS102",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "SYS201",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS201",
+    "prerequisite_course_id": "SYS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA201",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA201",
+    "prerequisite_course_id": "DATA101",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "WEB201",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "WEB201",
+    "prerequisite_course_id": "DES101",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "SEC201",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "STAT201",
+    "prerequisite_course_id": "STAT101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "STAT201",
+    "prerequisite_course_id": "MATH101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "PROD201",
+    "prerequisite_course_id": "DATA101",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "HCI201",
+    "prerequisite_course_id": "DES101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "HCI201",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "CS301",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS301",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS303",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS305",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS305",
+    "prerequisite_course_id": "MATH205",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS305",
+    "prerequisite_course_id": "STAT201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS308",
+    "prerequisite_course_id": "WEB201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS308",
+    "prerequisite_course_id": "DATA201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA301",
+    "prerequisite_course_id": "DATA201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA301",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA305",
+    "prerequisite_course_id": "DATA201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA305",
+    "prerequisite_course_id": "STAT101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS305",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS305",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC301",
+    "prerequisite_course_id": "SEC201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC301",
+    "prerequisite_course_id": "CS303",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC305",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC305",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI301",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI301",
+    "prerequisite_course_id": "MATH205",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "AI305",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI305",
+    "prerequisite_course_id": "MATH205",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI310",
+    "prerequisite_course_id": "DATA101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI310",
+    "prerequisite_course_id": "CS101",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "CLOUD301",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CLOUD301",
+    "prerequisite_course_id": "CS303",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "SE301",
+    "prerequisite_course_id": "CS205",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "PROD301",
+    "prerequisite_course_id": "PROD201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "PROD301",
+    "prerequisite_course_id": "DATA305",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "HCI301",
+    "prerequisite_course_id": "HCI201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "HCI301",
+    "prerequisite_course_id": "WEB201",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "FIN301",
+    "prerequisite_course_id": "MATH205",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "FIN301",
+    "prerequisite_course_id": "STAT201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "BIO301",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "BIO301",
+    "prerequisite_course_id": "STAT201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS401",
+    "prerequisite_course_id": "CS301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS401",
+    "prerequisite_course_id": "CS303",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS405",
+    "prerequisite_course_id": "CS305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS405",
+    "prerequisite_course_id": "MATH201",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "CS410",
+    "prerequisite_course_id": "CS305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS410",
+    "prerequisite_course_id": "CLOUD301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS415",
+    "prerequisite_course_id": "CLOUD301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS415",
+    "prerequisite_course_id": "CS308",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS420",
+    "prerequisite_course_id": "CS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS420",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS430",
+    "prerequisite_course_id": "CLOUD301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS430",
+    "prerequisite_course_id": "CS301",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "DATA401",
+    "prerequisite_course_id": "DATA301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA401",
+    "prerequisite_course_id": "CS301",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "DATA405",
+    "prerequisite_course_id": "DATA305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA405",
+    "prerequisite_course_id": "STAT201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA410",
+    "prerequisite_course_id": "DATA301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC401",
+    "prerequisite_course_id": "CLOUD301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC401",
+    "prerequisite_course_id": "SEC301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC405",
+    "prerequisite_course_id": "SEC305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC405",
+    "prerequisite_course_id": "SEC301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI401",
+    "prerequisite_course_id": "CS405",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI401",
+    "prerequisite_course_id": "AI301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI405",
+    "prerequisite_course_id": "CS305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI405",
+    "prerequisite_course_id": "STAT201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI410",
+    "prerequisite_course_id": "AI310",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI410",
+    "prerequisite_course_id": "CS305",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "SYS401",
+    "prerequisite_course_id": "CS301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS401",
+    "prerequisite_course_id": "SYS305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS405",
+    "prerequisite_course_id": "SYS201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS405",
+    "prerequisite_course_id": "SYS101",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SE401",
+    "prerequisite_course_id": "CS308",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SE401",
+    "prerequisite_course_id": "SE301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SE405",
+    "prerequisite_course_id": "WEB201",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SE405",
+    "prerequisite_course_id": "CS205",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "PROD401",
+    "prerequisite_course_id": "PROD301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "HCI401",
+    "prerequisite_course_id": "HCI301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "FIN401",
+    "prerequisite_course_id": "FIN301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "FIN401",
+    "prerequisite_course_id": "SYS305",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "BIO401",
+    "prerequisite_course_id": "BIO301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "BIO401",
+    "prerequisite_course_id": "CS405",
+    "requirement_type": "recommended"
+  },
+  {
+    "course_id": "CS500",
+    "prerequisite_course_id": "CS301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "CS500",
+    "prerequisite_course_id": "SE401",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA500",
+    "prerequisite_course_id": "DATA301",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "DATA500",
+    "prerequisite_course_id": "DATA401",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI500",
+    "prerequisite_course_id": "CS405",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "AI500",
+    "prerequisite_course_id": "AI410",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SYS500",
+    "prerequisite_course_id": "CS401",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "SEC500",
+    "prerequisite_course_id": "SEC405",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "PROD500",
+    "prerequisite_course_id": "PROD401",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "HCI500",
+    "prerequisite_course_id": "HCI401",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "EDGE201",
+    "prerequisite_course_id": "EDGE202",
+    "requirement_type": "hard"
+  },
+  {
+    "course_id": "EDGE202",
+    "prerequisite_course_id": "EDGE201",
+    "requirement_type": "hard"
+  }
+]

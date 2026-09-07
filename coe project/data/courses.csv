@@ -1,0 +1,69 @@
+course_id,title,department,credits,description,term_offered,difficulty_level
+CS101,Introduction to Computing & Python,CS,3,"Fundamental algorithmic thinking, data structures, and Python programming.",Fall;Spring;Summer,Introductory
+CS102,Discrete Mathematics & Logic,CS,3,"Propositional logic, set theory, graph theory fundamentals, and proof techniques.",Fall;Spring,Introductory
+MATH101,Calculus I: Differential Foundations,MATH,4,"Limits, continuity, derivatives, and introduction to optimization.",Fall;Spring;Summer,Introductory
+DATA101,Introduction to Data Science & Society,DATA,3,"Data exploration, tabular manipulation, ethical principles, and visualization.",Fall;Spring,Introductory
+SYS101,Digital Logic & Computer Organization,SYS,3,"Boolean algebra, combinational circuits, and von Neumann architecture.",Fall;Spring,Introductory
+DES101,Principles of Visual Design & Interface,DES,3,"Typography, color theory, layout hierarchy, and digital interface design.",Fall;Spring,Introductory
+STAT101,Descriptive & Applied Statistics,MATH,3,"Probability foundations, hypothesis testing, distributions, and variance.",Fall;Spring;Summer,Introductory
+CS201,Data Structures & Algorithms,CS,4,"Trees, graphs, dynamic programming, asymptotic complexity analysis.",Fall;Spring,Intermediate
+CS205,Object-Oriented Design & Patterns,CS,3,"Polymorphism, SOLID principles, design patterns, and unit testing.",Fall;Spring,Intermediate
+MATH201,Multivariable Calculus,MATH,3,"Partial derivatives, multiple integrals, gradient descent vectors.",Fall;Spring,Intermediate
+MATH205,Linear Algebra for Computing,MATH,4,"Vector spaces, matrices, eigenvalues, eigenvectors, and SVD.",Fall;Spring,Intermediate
+SYS201,Computer Systems & C Programming,SYS,4,"Pointers, memory management, UNIX system calls, and assembly.",Fall;Spring,Intermediate
+DATA201,Relational Databases & SQL Modeling,DATA,3,"Relational calculus, SQL querying, indexing, and ACID transactions.",Fall;Spring;Summer,Intermediate
+WEB201,Modern Client-Side Web Architecture,SE,3,"DOM manipulation, modern JavaScript/TypeScript, reactive UI components.",Fall;Spring,Intermediate
+SEC201,Fundamentals of Information Security,SEC,3,"Threat actors, symmetric/asymmetric encryption, authentication primitives.",Fall;Spring,Intermediate
+STAT201,Probability & Stochastic Processes,MATH,3,"Conditional probability, Bayes theorem, Markov chains, random walks.",Fall;Spring,Intermediate
+PROD201,Introduction to Product Management,PROD,3,"User research, product lifecycle, feature prioritization frameworks.",Fall;Spring,Intermediate
+HCI201,Foundations of Human-Computer Interaction,HCI,3,"Cognitive models, heuristic evaluation, and interaction principles.",Fall;Spring,Intermediate
+CS301,Operating Systems Architecture,SYS,4,"Concurrency, process scheduling, virtual memory, filesystems, and deadlocks.",Fall;Spring,Advanced
+CS303,Computer Networks & Protocols,SYS,3,"OSI model, TCP/IP, routing algorithms, DNS, and TLS handshakes.",Fall;Spring,Advanced
+CS305,Introduction to Machine Learning,AI,4,"Supervised and unsupervised learning, regression, decision trees, neural nets.",Fall;Spring,Advanced
+CS308,Web Services & RESTful API Engineering,SE,3,"Microservice design, HTTP specifications, API caching, and middleware.",Fall;Spring,Intermediate
+DATA301,Data Warehousing & ETL Pipelines,DATA,3,"Star schema modeling, dbt transformations, batch workflows, and columnar stores.",Fall;Spring,Intermediate
+DATA305,Exploratory Data Analysis & Visualization,DATA,3,"Statistical graphics, interactive dashboards, narrative data presentation.",Fall;Spring,Intermediate
+SYS305,Parallel & Concurrent Programming,SYS,3,"Thread synchronization, race conditions, OpenMP, lock-free structures.",Fall;Spring,Advanced
+SEC301,Network Security & Applied Cryptography,SEC,3,"Zero-knowledge proofs, PKI, firewall architectures, and VPN protocols.",Fall;Spring,Advanced
+SEC305,Vulnerability Analysis & Secure Coding,SEC,3,"Buffer overflows, injection flaws, memory safety, and OWASP Top 10.",Fall;Spring,Advanced
+AI301,Natural Language Processing Foundations,AI,3,"Tokenization, n-grams, word embeddings, sequence models, and sentiment analysis.",Fall;Spring,Advanced
+AI305,Computer Vision Fundamentals,AI,3,"Image filtering, edge detection, convolutional feature extractors, optical flow.",Fall;Spring,Advanced
+AI310,Ethics & Governance in Artificial Intelligence,AI,3,"Sociotechnical systems, fairness metrics, auditing algorithmic systems.",Fall;Spring,Intermediate
+CLOUD301,Cloud Infrastructure & Virtualization,SYS,3,"IaaS, VPC networking, containers, Docker, and hypervisors.",Fall;Spring,Intermediate
+SE301,Software Testing & Quality Assurance,SE,3,"Integration testing, TDD, mutation testing, CI pipelines, and static analysis.",Fall;Spring,Intermediate
+PROD301,Data-Informed Technical Product Strategy,PROD,3,"A/B testing, North Star metrics, customer acquisition, and retention cohorts.",Fall;Spring,Intermediate
+HCI301,Accessible Web & Mobile Design (WCAG),HCI,3,"Assistive technologies, ARIA specifications, screen-reader validation, color a11y.",Fall;Spring,Intermediate
+FIN301,Financial Computational Models,FIN,3,"Portfolio optimization, Black-Scholes model, Sharpe ratios, risk pricing.",Fall;Spring,Advanced
+BIO301,Computational Molecular Biology,BIO,3,"Sequence alignment, BLAST algorithms, phylogenetic trees, gene expression data.",Fall;Spring,Advanced
+CS401,Distributed Systems & Consensus,SYS,4,"Raft, Paxos, CAP theorem, eventual consistency, and distributed storage.",Fall;Spring,Advanced
+CS405,Deep Neural Networks & Representation Learning,AI,4,"Transformers, attention mechanisms, backprop optimization, autoencoders.",Fall;Spring,Advanced
+CS410,Production Machine Learning (MLOps),AI,3,"Feature stores, model monitoring, drift detection, and automated retraining.",Fall;Spring,Advanced
+CS415,Distributed Cloud Native Architecture,SYS,3,"Kubernetes orchestration, service meshes, gRPC, and 12-factor microservices.",Fall;Spring,Advanced
+CS420,Compilers & Language Interpreters,CS,4,"Lexing, LL/LR parsing, abstract syntax trees, intermediate representations.",Fall,Advanced
+CS430,Site Reliability Engineering & Observability,SYS,3,"SLIs/SLOs, distributed tracing, error budgets, incident post-mortems.",Spring,Advanced
+DATA401,Large-Scale Streaming Systems (Kafka/Flink),DATA,4,"Stream joins, sliding windows, exactly-once processing, event-driven pipes.",Fall;Spring,Advanced
+DATA405,Advanced Causal Inference & Econometrics,DATA,3,"Propensity score matching, instrumental variables, synthetic controls.",Spring,Advanced
+DATA410,Data Governance & Compliance Architectures,DATA,3,"GDPR, data lineage, privacy budgets, and differential privacy.",Fall,Intermediate
+SEC401,Cloud Security & Identity Architecture,SEC,3,"IAM policies, zero-trust microsegmentation, secrets management.",Fall,Advanced
+SEC405,Penetration Testing & Red Teaming,SEC,4,"Exploit development, privilege escalation, lateral movement, MITRE ATT&CK.",Spring,Advanced
+AI401,Large Language Model Engineering,AI,4,"Instruction tuning, RLHF, prompt chaining, vector databases, and RAG.",Fall;Spring,Advanced
+AI405,Reinforcement Learning & Decision Making,AI,4,"Markov decision processes, Q-learning, policy gradients, PPO, actor-critic.",Spring,Advanced
+AI410,Responsible AI Auditing & Fairness Toolkits,AI,3,"Disparate impact analysis, counterfactual fairness, model cards.",Fall;Spring,Intermediate
+SYS401,Embedded Real-Time Operating Systems,SYS,4,"Interrupt handlers, deterministic scheduling, board bring-up, FreeRTOS.",Fall,Advanced
+SYS405,Hardware-Software Co-Design & FPGAs,SYS,4,"Verilog HDL, memory hierarchies, custom accelerators, timing closure.",Spring,Advanced
+SE401,Advanced Software System Design & Microfrontends,SE,3,"Domain-driven design, event sourcing, microfrontends, CQRS.",Fall;Spring,Advanced
+SE405,Mobile Systems Architecture (iOS & Android),SE,3,"Native threading, offline-first sync, battery optimization, reactive state.",Fall;Spring,Intermediate
+PROD401,Technical Product Leadership & Capstone,PROD,4,"End-to-end product incubation, customer validation, executive reviews.",Spring,Advanced
+HCI401,Advanced Interaction Techniques & AR/VR,HCI,4,"Spatial computing, haptics, gesture recognition, multimodal UI.",Spring,Advanced
+FIN401,High-Frequency Trading & Low-Latency Engines,FIN,4,"Kernel bypass, order book matching, FPGA execution, FIX protocol.",Fall,Advanced
+BIO401,Genomic Machine Learning & Drug Discovery,BIO,4,"Graph neural networks on molecules, protein folding models, biostats.",Spring,Advanced
+CS500,Master Senior Software Capstone,CS,4,Cross-functional engineering project with external industry stakeholders.,Fall;Spring,Advanced
+DATA500,Applied Data Science Capstone,DATA,4,End-to-end predictive analytics deliverable deployed to production.,Fall;Spring,Advanced
+AI500,Autonomous AI Systems Capstone,AI,4,Full autonomous agent pipeline with ethical guardrails and safety bounds.,Fall;Spring,Advanced
+SYS500,High-Performance Systems Capstone,SYS,4,Distributed compute cluster project delivering measurable throughput.,Fall;Spring,Advanced
+SEC500,Cybersecurity Defense & Incident Response Capstone,SEC,4,Blue team incident mitigation and forensics investigation simulation.,Fall;Spring,Advanced
+PROD500,New Venture Product Launch Capstone,PROD,4,"Venture creation, beta cohort management, and live market deployment.",Fall;Spring,Advanced
+HCI500,Universal Accessibility Studio Capstone,HCI,4,Public assistive technology deliverable certified against WCAG AAA.,Fall;Spring,Advanced
+EDGE101,Curriculum Evolution: Legacy Systems,CS,3,Legacy procedural systems (intended for catalog drift tests).,Fall,Introductory
+EDGE201,Circular Loop Anchor A,CS,3,Diagnostic node for circular prerequisite graph detection.,Spring,Intermediate
+EDGE202,Circular Loop Anchor B,CS,3,Diagnostic reciprocal node for circular detection.,Spring,Intermediate

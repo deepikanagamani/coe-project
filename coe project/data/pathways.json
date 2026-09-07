@@ -1,0 +1,192 @@
+[
+  {
+    "pathway_id": "PW_ML_ENG",
+    "name": "Machine Learning Engineer",
+    "description": "Design, deploy, and scale machine learning models into production distributed environments.",
+    "primary_departments": [
+      "CS",
+      "AI",
+      "MATH"
+    ],
+    "target_competencies": [
+      "Deep Learning",
+      "Applied Statistics",
+      "Model Serving",
+      "MLOps"
+    ]
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "name": "Data Scientist",
+    "description": "Extract empirical insights and predictive models from large-scale structured and unstructured data.",
+    "primary_departments": [
+      "DATA",
+      "MATH",
+      "CS"
+    ],
+    "target_competencies": [
+      "Statistical Inference",
+      "Data Wrangling",
+      "Machine Learning",
+      "Data Storytelling"
+    ]
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "name": "Cloud & DevOps Architect",
+    "description": "Build automated infrastructure, distributed systems, CI/CD pipelines, and cloud platform resilience.",
+    "primary_departments": [
+      "CS",
+      "SYS"
+    ],
+    "target_competencies": [
+      "Cloud Infrastructure",
+      "Kubernetes",
+      "Observability",
+      "Site Reliability"
+    ]
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "name": "Cybersecurity & Information Assurance",
+    "description": "Protect computing assets, conduct vulnerability assessments, and implement zero-trust security postures.",
+    "primary_departments": [
+      "SEC",
+      "CS",
+      "NET"
+    ],
+    "target_competencies": [
+      "Cryptography",
+      "Network Security",
+      "Penetration Testing",
+      "Threat Modeling"
+    ]
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "name": "Full-Stack Software Engineer",
+    "description": "Engineer modern web, mobile, and service-oriented applications from backend architecture to frontend interfaces.",
+    "primary_departments": [
+      "CS",
+      "SE"
+    ],
+    "target_competencies": [
+      "Frontend Engineering",
+      "API Design",
+      "Database Modeling",
+      "Distributed Architecture"
+    ]
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "name": "Technical Product Manager",
+    "description": "Define product strategy, technical roadmaps, metrics, and collaborate with engineering and design teams.",
+    "primary_departments": [
+      "PROD",
+      "CS",
+      "INFO"
+    ],
+    "target_competencies": [
+      "Product Discovery",
+      "System Architecture for PMs",
+      "Agile Execution",
+      "User Analytics"
+    ]
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "name": "Systems & Embedded Software Engineer",
+    "description": "Program low-level hardware interfaces, real-time operating systems, and resource-constrained embedded systems.",
+    "primary_departments": [
+      "SYS",
+      "CS",
+      "EE"
+    ],
+    "target_competencies": [
+      "Kernel Architecture",
+      "C/C++ Systems",
+      "Real-Time OS",
+      "Computer Architecture"
+    ]
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "name": "AI Safety & Responsible Tech Lead",
+    "description": "Audit algorithmic fairness, establish regulatory compliance, and mitigate AI systemic bias.",
+    "primary_departments": [
+      "AI",
+      "PHIL",
+      "DATA"
+    ],
+    "target_competencies": [
+      "Algorithmic Fairness",
+      "AI Governance",
+      "Privacy-Preserving Computation",
+      "Tech Policy"
+    ]
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "name": "Data Systems Engineer",
+    "description": "Architect high-throughput streaming pipelines, distributed data warehouses, and batch data processing engines.",
+    "primary_departments": [
+      "DATA",
+      "CS",
+      "SYS"
+    ],
+    "target_competencies": [
+      "Data Pipelines",
+      "Lakehouse Architecture",
+      "Stream Processing",
+      "Distributed Query Engines"
+    ]
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "name": "Human-Computer Interaction & UX Engineer",
+    "description": "Build accessible, responsive digital interfaces informed by cognitive psychology and usability engineering.",
+    "primary_departments": [
+      "HCI",
+      "CS",
+      "DES"
+    ],
+    "target_competencies": [
+      "Design Systems",
+      "Web Accessibility (a11y)",
+      "Usability Testing",
+      "Interaction Design"
+    ]
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "name": "FinTech & Quantitative Software Analyst",
+    "description": "Develop algorithmic trading infrastructure, risk models, and blockchain transaction protocols.",
+    "primary_departments": [
+      "MATH",
+      "CS",
+      "FIN"
+    ],
+    "target_competencies": [
+      "Financial Modeling",
+      "Low-Latency Code",
+      "Stochastic Calculus",
+      "Distributed Ledgers"
+    ]
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "name": "Computational Biology & Health Informatics",
+    "description": "Apply algorithmic graph analysis and machine learning to genomic sequences and clinical healthcare records.",
+    "primary_departments": [
+      "BIO",
+      "DATA",
+      "CS"
+    ],
+    "target_competencies": [
+      "Genomic Data Processing",
+      "Clinical NLP",
+      "Bioinformatics Algorithms",
+      "Biostatistics"
+    ]
+  }
+]

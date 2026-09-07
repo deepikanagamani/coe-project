@@ -1,0 +1,806 @@
+[
+  {
+    "course_id": "CS101",
+    "title": "Introduction to Computing & Python",
+    "department": "CS",
+    "credits": 3,
+    "description": "Fundamental algorithmic thinking, data structures, and Python programming.",
+    "term_offered": [
+      "Fall",
+      "Spring",
+      "Summer"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "CS102",
+    "title": "Discrete Mathematics & Logic",
+    "department": "CS",
+    "credits": 3,
+    "description": "Propositional logic, set theory, graph theory fundamentals, and proof techniques.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "MATH101",
+    "title": "Calculus I: Differential Foundations",
+    "department": "MATH",
+    "credits": 4,
+    "description": "Limits, continuity, derivatives, and introduction to optimization.",
+    "term_offered": [
+      "Fall",
+      "Spring",
+      "Summer"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "DATA101",
+    "title": "Introduction to Data Science & Society",
+    "department": "DATA",
+    "credits": 3,
+    "description": "Data exploration, tabular manipulation, ethical principles, and visualization.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "SYS101",
+    "title": "Digital Logic & Computer Organization",
+    "department": "SYS",
+    "credits": 3,
+    "description": "Boolean algebra, combinational circuits, and von Neumann architecture.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "DES101",
+    "title": "Principles of Visual Design & Interface",
+    "department": "DES",
+    "credits": 3,
+    "description": "Typography, color theory, layout hierarchy, and digital interface design.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "STAT101",
+    "title": "Descriptive & Applied Statistics",
+    "department": "MATH",
+    "credits": 3,
+    "description": "Probability foundations, hypothesis testing, distributions, and variance.",
+    "term_offered": [
+      "Fall",
+      "Spring",
+      "Summer"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "CS201",
+    "title": "Data Structures & Algorithms",
+    "department": "CS",
+    "credits": 4,
+    "description": "Trees, graphs, dynamic programming, asymptotic complexity analysis.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "CS205",
+    "title": "Object-Oriented Design & Patterns",
+    "department": "CS",
+    "credits": 3,
+    "description": "Polymorphism, SOLID principles, design patterns, and unit testing.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "MATH201",
+    "title": "Multivariable Calculus",
+    "department": "MATH",
+    "credits": 3,
+    "description": "Partial derivatives, multiple integrals, gradient descent vectors.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "MATH205",
+    "title": "Linear Algebra for Computing",
+    "department": "MATH",
+    "credits": 4,
+    "description": "Vector spaces, matrices, eigenvalues, eigenvectors, and SVD.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "SYS201",
+    "title": "Computer Systems & C Programming",
+    "department": "SYS",
+    "credits": 4,
+    "description": "Pointers, memory management, UNIX system calls, and assembly.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "DATA201",
+    "title": "Relational Databases & SQL Modeling",
+    "department": "DATA",
+    "credits": 3,
+    "description": "Relational calculus, SQL querying, indexing, and ACID transactions.",
+    "term_offered": [
+      "Fall",
+      "Spring",
+      "Summer"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "WEB201",
+    "title": "Modern Client-Side Web Architecture",
+    "department": "SE",
+    "credits": 3,
+    "description": "DOM manipulation, modern JavaScript/TypeScript, reactive UI components.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "SEC201",
+    "title": "Fundamentals of Information Security",
+    "department": "SEC",
+    "credits": 3,
+    "description": "Threat actors, symmetric/asymmetric encryption, authentication primitives.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "STAT201",
+    "title": "Probability & Stochastic Processes",
+    "department": "MATH",
+    "credits": 3,
+    "description": "Conditional probability, Bayes theorem, Markov chains, random walks.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "PROD201",
+    "title": "Introduction to Product Management",
+    "department": "PROD",
+    "credits": 3,
+    "description": "User research, product lifecycle, feature prioritization frameworks.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "HCI201",
+    "title": "Foundations of Human-Computer Interaction",
+    "department": "HCI",
+    "credits": 3,
+    "description": "Cognitive models, heuristic evaluation, and interaction principles.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "CS301",
+    "title": "Operating Systems Architecture",
+    "department": "SYS",
+    "credits": 4,
+    "description": "Concurrency, process scheduling, virtual memory, filesystems, and deadlocks.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS303",
+    "title": "Computer Networks & Protocols",
+    "department": "SYS",
+    "credits": 3,
+    "description": "OSI model, TCP/IP, routing algorithms, DNS, and TLS handshakes.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS305",
+    "title": "Introduction to Machine Learning",
+    "department": "AI",
+    "credits": 4,
+    "description": "Supervised and unsupervised learning, regression, decision trees, neural nets.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS308",
+    "title": "Web Services & RESTful API Engineering",
+    "department": "SE",
+    "credits": 3,
+    "description": "Microservice design, HTTP specifications, API caching, and middleware.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "DATA301",
+    "title": "Data Warehousing & ETL Pipelines",
+    "department": "DATA",
+    "credits": 3,
+    "description": "Star schema modeling, dbt transformations, batch workflows, and columnar stores.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "DATA305",
+    "title": "Exploratory Data Analysis & Visualization",
+    "department": "DATA",
+    "credits": 3,
+    "description": "Statistical graphics, interactive dashboards, narrative data presentation.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "SYS305",
+    "title": "Parallel & Concurrent Programming",
+    "department": "SYS",
+    "credits": 3,
+    "description": "Thread synchronization, race conditions, OpenMP, lock-free structures.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SEC301",
+    "title": "Network Security & Applied Cryptography",
+    "department": "SEC",
+    "credits": 3,
+    "description": "Zero-knowledge proofs, PKI, firewall architectures, and VPN protocols.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SEC305",
+    "title": "Vulnerability Analysis & Secure Coding",
+    "department": "SEC",
+    "credits": 3,
+    "description": "Buffer overflows, injection flaws, memory safety, and OWASP Top 10.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI301",
+    "title": "Natural Language Processing Foundations",
+    "department": "AI",
+    "credits": 3,
+    "description": "Tokenization, n-grams, word embeddings, sequence models, and sentiment analysis.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI305",
+    "title": "Computer Vision Fundamentals",
+    "department": "AI",
+    "credits": 3,
+    "description": "Image filtering, edge detection, convolutional feature extractors, optical flow.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI310",
+    "title": "Ethics & Governance in Artificial Intelligence",
+    "department": "AI",
+    "credits": 3,
+    "description": "Sociotechnical systems, fairness metrics, auditing algorithmic systems.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "CLOUD301",
+    "title": "Cloud Infrastructure & Virtualization",
+    "department": "SYS",
+    "credits": 3,
+    "description": "IaaS, VPC networking, containers, Docker, and hypervisors.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "SE301",
+    "title": "Software Testing & Quality Assurance",
+    "department": "SE",
+    "credits": 3,
+    "description": "Integration testing, TDD, mutation testing, CI pipelines, and static analysis.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "PROD301",
+    "title": "Data-Informed Technical Product Strategy",
+    "department": "PROD",
+    "credits": 3,
+    "description": "A/B testing, North Star metrics, customer acquisition, and retention cohorts.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "HCI301",
+    "title": "Accessible Web & Mobile Design (WCAG)",
+    "department": "HCI",
+    "credits": 3,
+    "description": "Assistive technologies, ARIA specifications, screen-reader validation, color a11y.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "FIN301",
+    "title": "Financial Computational Models",
+    "department": "FIN",
+    "credits": 3,
+    "description": "Portfolio optimization, Black-Scholes model, Sharpe ratios, risk pricing.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "BIO301",
+    "title": "Computational Molecular Biology",
+    "department": "BIO",
+    "credits": 3,
+    "description": "Sequence alignment, BLAST algorithms, phylogenetic trees, gene expression data.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS401",
+    "title": "Distributed Systems & Consensus",
+    "department": "SYS",
+    "credits": 4,
+    "description": "Raft, Paxos, CAP theorem, eventual consistency, and distributed storage.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS405",
+    "title": "Deep Neural Networks & Representation Learning",
+    "department": "AI",
+    "credits": 4,
+    "description": "Transformers, attention mechanisms, backprop optimization, autoencoders.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS410",
+    "title": "Production Machine Learning (MLOps)",
+    "department": "AI",
+    "credits": 3,
+    "description": "Feature stores, model monitoring, drift detection, and automated retraining.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS415",
+    "title": "Distributed Cloud Native Architecture",
+    "department": "SYS",
+    "credits": 3,
+    "description": "Kubernetes orchestration, service meshes, gRPC, and 12-factor microservices.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS420",
+    "title": "Compilers & Language Interpreters",
+    "department": "CS",
+    "credits": 4,
+    "description": "Lexing, LL/LR parsing, abstract syntax trees, intermediate representations.",
+    "term_offered": [
+      "Fall"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS430",
+    "title": "Site Reliability Engineering & Observability",
+    "department": "SYS",
+    "credits": 3,
+    "description": "SLIs/SLOs, distributed tracing, error budgets, incident post-mortems.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "DATA401",
+    "title": "Large-Scale Streaming Systems (Kafka/Flink)",
+    "department": "DATA",
+    "credits": 4,
+    "description": "Stream joins, sliding windows, exactly-once processing, event-driven pipes.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "DATA405",
+    "title": "Advanced Causal Inference & Econometrics",
+    "department": "DATA",
+    "credits": 3,
+    "description": "Propensity score matching, instrumental variables, synthetic controls.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "DATA410",
+    "title": "Data Governance & Compliance Architectures",
+    "department": "DATA",
+    "credits": 3,
+    "description": "GDPR, data lineage, privacy budgets, and differential privacy.",
+    "term_offered": [
+      "Fall"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "SEC401",
+    "title": "Cloud Security & Identity Architecture",
+    "department": "SEC",
+    "credits": 3,
+    "description": "IAM policies, zero-trust microsegmentation, secrets management.",
+    "term_offered": [
+      "Fall"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SEC405",
+    "title": "Penetration Testing & Red Teaming",
+    "department": "SEC",
+    "credits": 4,
+    "description": "Exploit development, privilege escalation, lateral movement, MITRE ATT&CK.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI401",
+    "title": "Large Language Model Engineering",
+    "department": "AI",
+    "credits": 4,
+    "description": "Instruction tuning, RLHF, prompt chaining, vector databases, and RAG.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI405",
+    "title": "Reinforcement Learning & Decision Making",
+    "department": "AI",
+    "credits": 4,
+    "description": "Markov decision processes, Q-learning, policy gradients, PPO, actor-critic.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI410",
+    "title": "Responsible AI Auditing & Fairness Toolkits",
+    "department": "AI",
+    "credits": 3,
+    "description": "Disparate impact analysis, counterfactual fairness, model cards.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "SYS401",
+    "title": "Embedded Real-Time Operating Systems",
+    "department": "SYS",
+    "credits": 4,
+    "description": "Interrupt handlers, deterministic scheduling, board bring-up, FreeRTOS.",
+    "term_offered": [
+      "Fall"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SYS405",
+    "title": "Hardware-Software Co-Design & FPGAs",
+    "department": "SYS",
+    "credits": 4,
+    "description": "Verilog HDL, memory hierarchies, custom accelerators, timing closure.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SE401",
+    "title": "Advanced Software System Design & Microfrontends",
+    "department": "SE",
+    "credits": 3,
+    "description": "Domain-driven design, event sourcing, microfrontends, CQRS.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SE405",
+    "title": "Mobile Systems Architecture (iOS & Android)",
+    "department": "SE",
+    "credits": 3,
+    "description": "Native threading, offline-first sync, battery optimization, reactive state.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "PROD401",
+    "title": "Technical Product Leadership & Capstone",
+    "department": "PROD",
+    "credits": 4,
+    "description": "End-to-end product incubation, customer validation, executive reviews.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "HCI401",
+    "title": "Advanced Interaction Techniques & AR/VR",
+    "department": "HCI",
+    "credits": 4,
+    "description": "Spatial computing, haptics, gesture recognition, multimodal UI.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "FIN401",
+    "title": "High-Frequency Trading & Low-Latency Engines",
+    "department": "FIN",
+    "credits": 4,
+    "description": "Kernel bypass, order book matching, FPGA execution, FIX protocol.",
+    "term_offered": [
+      "Fall"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "BIO401",
+    "title": "Genomic Machine Learning & Drug Discovery",
+    "department": "BIO",
+    "credits": 4,
+    "description": "Graph neural networks on molecules, protein folding models, biostats.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "CS500",
+    "title": "Master Senior Software Capstone",
+    "department": "CS",
+    "credits": 4,
+    "description": "Cross-functional engineering project with external industry stakeholders.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "DATA500",
+    "title": "Applied Data Science Capstone",
+    "department": "DATA",
+    "credits": 4,
+    "description": "End-to-end predictive analytics deliverable deployed to production.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "AI500",
+    "title": "Autonomous AI Systems Capstone",
+    "department": "AI",
+    "credits": 4,
+    "description": "Full autonomous agent pipeline with ethical guardrails and safety bounds.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SYS500",
+    "title": "High-Performance Systems Capstone",
+    "department": "SYS",
+    "credits": 4,
+    "description": "Distributed compute cluster project delivering measurable throughput.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "SEC500",
+    "title": "Cybersecurity Defense & Incident Response Capstone",
+    "department": "SEC",
+    "credits": 4,
+    "description": "Blue team incident mitigation and forensics investigation simulation.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "PROD500",
+    "title": "New Venture Product Launch Capstone",
+    "department": "PROD",
+    "credits": 4,
+    "description": "Venture creation, beta cohort management, and live market deployment.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "HCI500",
+    "title": "Universal Accessibility Studio Capstone",
+    "department": "HCI",
+    "credits": 4,
+    "description": "Public assistive technology deliverable certified against WCAG AAA.",
+    "term_offered": [
+      "Fall",
+      "Spring"
+    ],
+    "difficulty_level": "Advanced"
+  },
+  {
+    "course_id": "EDGE101",
+    "title": "Curriculum Evolution: Legacy Systems",
+    "department": "CS",
+    "credits": 3,
+    "description": "Legacy procedural systems (intended for catalog drift tests).",
+    "term_offered": [
+      "Fall"
+    ],
+    "difficulty_level": "Introductory"
+  },
+  {
+    "course_id": "EDGE201",
+    "title": "Circular Loop Anchor A",
+    "department": "CS",
+    "credits": 3,
+    "description": "Diagnostic node for circular prerequisite graph detection.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  },
+  {
+    "course_id": "EDGE202",
+    "title": "Circular Loop Anchor B",
+    "department": "CS",
+    "credits": 3,
+    "description": "Diagnostic reciprocal node for circular detection.",
+    "term_offered": [
+      "Spring"
+    ],
+    "difficulty_level": "Intermediate"
+  }
+]

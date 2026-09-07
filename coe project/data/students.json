@@ -1,0 +1,5460 @@
+[
+  {
+    "student_id": "STU_0001",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "PROD201",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0002",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0003",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0004",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0005",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0006",
+    "completed_courses": [
+      "CS102",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0007",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0008",
+    "completed_courses": [
+      "CS101",
+      "MATH101",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0009",
+    "completed_courses": [
+      "DATA101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0010",
+    "completed_courses": [
+      "DATA101",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0011",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "PROD201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0012",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0013",
+    "completed_courses": [
+      "CS102",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0014",
+    "completed_courses": [
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0015",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0016",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "MATH205",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0017",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0018",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "MATH101",
+      "STAT101",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0019",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS303",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0020",
+    "completed_courses": [
+      "CS102",
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0021",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS303",
+      "DATA305",
+      "DES101",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS305",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0022",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DES101",
+      "MATH205",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0023",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS303",
+      "CS305",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "SE301",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0024",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "SEC201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0025",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA101",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DEPRECATED_WEB3",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0026",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0027",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "HCI201",
+      "MATH101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0028",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH201",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0029",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "DATA101",
+      "DATA305",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0030",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DES101",
+      "MATH101",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0031",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA201",
+      "DES101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0032",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "MATH101",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0033",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS305",
+      "DATA101",
+      "DATA201",
+      "FIN301",
+      "HCI201",
+      "HCI301",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0034",
+    "completed_courses": [
+      "CS102",
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0035",
+    "completed_courses": [
+      "DATA101",
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0036",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "MATH201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0037",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "MATH205",
+      "SEC201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0038",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "MATH205",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0039",
+    "completed_courses": [
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0040",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA101",
+      "DES101",
+      "FIN301",
+      "HCI201",
+      "HCI301",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "SEC301",
+      "SEC305",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0041",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "MATH205",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0042",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS301",
+      "DATA101",
+      "DES101",
+      "HCI301",
+      "MATH205",
+      "PROD201",
+      "SE301",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0043",
+    "completed_courses": [
+      "AI305",
+      "CLOUD301",
+      "CS101",
+      "CS201",
+      "CS205",
+      "CS308",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0044",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "CS301",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "PROD201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0045",
+    "completed_courses": [
+      "BIO301",
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0046",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0047",
+    "completed_courses": [
+      "DATA101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0048",
+    "completed_courses": [
+      "DATA101",
+      "DES101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0049",
+    "completed_courses": [
+      "AI310",
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0050",
+    "completed_courses": [
+      "CS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0051",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0052",
+    "completed_courses": [
+      "AI310",
+      "CS101",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI301",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "SEC305",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0053",
+    "completed_courses": [
+      "CS102",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0054",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "SEC201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0055",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "CS308",
+      "DATA101",
+      "DES101",
+      "MATH201",
+      "PROD201",
+      "SE301",
+      "SEC301",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0056",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0057",
+    "completed_courses": [
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0058",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "MATH101",
+      "MATH205",
+      "SEC201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0059",
+    "completed_courses": [
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0060",
+    "completed_courses": [
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0061",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "PROD201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0062",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS305",
+      "DATA101",
+      "HCI201",
+      "HCI301",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "SEC201",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0063",
+    "completed_courses": [
+      "DATA101",
+      "MATH101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0064",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS305",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0065",
+    "completed_courses": [
+      "CS102",
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0066",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA301",
+      "DES101",
+      "MATH101",
+      "PROD301",
+      "SEC201",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0067",
+    "completed_courses": [
+      "AI310",
+      "BIO301",
+      "CS101",
+      "CS102",
+      "DES101",
+      "HCI201",
+      "HCI301",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0068",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DATA301",
+      "DES101",
+      "FIN301",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0069",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0070",
+    "completed_courses": [
+      "DATA101",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0071",
+    "completed_courses": [
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0072",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DES101",
+      "MATH201",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0073",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0074",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA201",
+      "DES101",
+      "SEC201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0075",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS303",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "HCI301",
+      "MATH101",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0076",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0077",
+    "completed_courses": [
+      "CS102",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0078",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0079",
+    "completed_courses": [
+      "AI301",
+      "AI310",
+      "CS101",
+      "CS201",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "PROD301",
+      "SEC305",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0080",
+    "completed_courses": [
+      "CS102",
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0081",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "MATH101",
+      "SEC201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0082",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0083",
+    "completed_courses": [
+      "CS101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0084",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0085",
+    "completed_courses": [
+      "CS102",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0086",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0087",
+    "completed_courses": [
+      "CS102",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0088",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "MATH101",
+      "STAT101",
+      "STAT201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0089",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0090",
+    "completed_courses": [
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0091",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "PROD201",
+      "SEC201",
+      "STAT201",
+      "SYS101",
+      "SYS305",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0092",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0093",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0094",
+    "completed_courses": [
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0095",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0096",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0097",
+    "completed_courses": [
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0098",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0099",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "HCI201",
+      "SE301",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0100",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "MATH101",
+      "PROD201",
+      "STAT201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0101",
+    "completed_courses": [
+      "CS101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0102",
+    "completed_courses": [
+      "DES101",
+      "MATH101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0103",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0104",
+    "completed_courses": [
+      "CS101",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0105",
+    "completed_courses": [
+      "CS205",
+      "DATA101",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0106",
+    "completed_courses": [
+      "CS101",
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0107",
+    "completed_courses": [
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0108",
+    "completed_courses": [
+      "DATA101",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0109",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "FIN301",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "PROD301",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0110",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS303",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH205",
+      "PROD201",
+      "PROD301",
+      "SEC201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0111",
+    "completed_courses": [
+      "CS102",
+      "DATA201",
+      "MATH101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0112",
+    "completed_courses": [
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0113",
+    "completed_courses": [
+      "BIO301",
+      "CLOUD301",
+      "CS102",
+      "CS205",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0114",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0115",
+    "completed_courses": [
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0116",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0117",
+    "completed_courses": [
+      "AI301",
+      "CS102",
+      "DATA101",
+      "DES101",
+      "HCI301",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0118",
+    "completed_courses": [
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0119",
+    "completed_courses": [
+      "DATA101",
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0120",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA101",
+      "DATA201",
+      "MATH205",
+      "SEC201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0121",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS301",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "PROD201",
+      "PROD301",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0122",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0123",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "MATH201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0124",
+    "completed_courses": [
+      "CS101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0125",
+    "completed_courses": [
+      "AI305",
+      "AI310",
+      "CS101",
+      "CS201",
+      "CS205",
+      "DATA201",
+      "DATA305",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0126",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0127",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "PROD301",
+      "SE301",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0128",
+    "completed_courses": [
+      "AI301",
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "FIN301",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "PROD301",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0129",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0130",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0131",
+    "completed_courses": [
+      "MATH101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0132",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "SEC201",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0133",
+    "completed_courses": [
+      "DATA101",
+      "DES101",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0134",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0135",
+    "completed_courses": [
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0136",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0137",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0138",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "SEC201",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0139",
+    "completed_courses": [
+      "CS102",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0140",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0141",
+    "completed_courses": [
+      "CS102",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "PROD201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0142",
+    "completed_courses": [
+      "MATH101",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0143",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0144",
+    "completed_courses": [
+      "CS102",
+      "DES101",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0145",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0146",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0147",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "FIN301",
+      "HCI201",
+      "HCI301",
+      "MATH101",
+      "MATH205",
+      "SEC201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0148",
+    "completed_courses": [
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0149",
+    "completed_courses": [
+      "CS205",
+      "DATA101",
+      "PROD201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0150",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DATA301",
+      "DES101",
+      "FIN301",
+      "MATH201",
+      "PROD301",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0151",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS301",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "SE301",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0152",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "HCI201",
+      "MATH201",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0153",
+    "completed_courses": [
+      "CS102",
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0154",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "SEC201",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0155",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0156",
+    "completed_courses": [
+      "CS205",
+      "DES101",
+      "MATH101",
+      "PROD201",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0157",
+    "completed_courses": [
+      "CS101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0158",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS303",
+      "DES101",
+      "HCI201",
+      "HCI301",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SE301",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0159",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DES101",
+      "MATH101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0160",
+    "completed_courses": [
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0161",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA301",
+      "DES101",
+      "FIN301",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0162",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0163",
+    "completed_courses": [
+      "AI310",
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "SEC301",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0164",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0165",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DES101",
+      "HCI201",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0166",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS303",
+      "DATA101",
+      "DATA301",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "PROD301",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0167",
+    "completed_courses": [
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0168",
+    "completed_courses": [
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0169",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0170",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0171",
+    "completed_courses": [
+      "DATA101",
+      "DATA301",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "SYS101",
+      "SYS305",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0172",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "HCI201",
+      "MATH205",
+      "PROD201",
+      "PROD301",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0173",
+    "completed_courses": [
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0174",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "HCI201",
+      "MATH101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0175",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0176",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "CS303",
+      "DATA101",
+      "DATA201",
+      "DATA301",
+      "DES101",
+      "HCI201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0177",
+    "completed_courses": [
+      "DES101",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0178",
+    "completed_courses": [
+      "AI301",
+      "AI305",
+      "BIO301",
+      "CS101",
+      "CS102",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SYS305",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0179",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS301",
+      "DATA101",
+      "DATA301",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SE301",
+      "SEC305",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0180",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "DATA201",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "STAT101",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0181",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DES101",
+      "MATH201",
+      "MATH205",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0182",
+    "completed_courses": [
+      "DATA101",
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0183",
+    "completed_courses": [
+      "MATH101",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0184",
+    "completed_courses": [
+      "AI310",
+      "CLOUD301",
+      "CS102",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "PROD301",
+      "SEC301",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0185",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS201",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "HCI301",
+      "MATH201",
+      "SE301",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0186",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DATA305",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0187",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0188",
+    "completed_courses": [
+      "AI301",
+      "CS102",
+      "CS205",
+      "CS303",
+      "CS305",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "SEC301",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0189",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0190",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "MATH101",
+      "PROD201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0191",
+    "completed_courses": [
+      "CS102",
+      "MATH201",
+      "PROD201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0192",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "SEC201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0193",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "PROD201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0194",
+    "completed_courses": [
+      "MATH101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0195",
+    "completed_courses": [
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0196",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0197",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "FIN301",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "SE301",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0198",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "MATH101",
+      "PROD201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0199",
+    "completed_courses": [
+      "AI310",
+      "CS101",
+      "CS102",
+      "CS301",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0200",
+    "completed_courses": [
+      "AI301",
+      "CS102",
+      "CS205",
+      "CS303",
+      "CS305",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0201",
+    "completed_courses": [
+      "CLOUD301",
+      "CS102",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SE301",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0202",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0203",
+    "completed_courses": [
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "PROD201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0204",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "DATA201",
+      "DATA301",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0205",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DATA301",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0206",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "MATH205",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0207",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA201",
+      "DES101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0208",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "DATA305",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SE301",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0209",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0210",
+    "completed_courses": [
+      "CS102",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "MATH205",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0211",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0212",
+    "completed_courses": [
+      "AI301",
+      "AI305",
+      "BIO301",
+      "CS101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0213",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA301",
+      "DES101",
+      "HCI201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS305",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0214",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "MATH101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0215",
+    "completed_courses": [
+      "DATA101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0216",
+    "completed_courses": [
+      "CS101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0217",
+    "completed_courses": [
+      "CS101",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0218",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "DES101",
+      "MATH205",
+      "PROD201",
+      "SEC201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0219",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0220",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "MATH101",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0221",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0222",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "CS205",
+      "DES101",
+      "PROD201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0223",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0224",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "CS303",
+      "CS308",
+      "DATA101",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "PROD301",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0225",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "MATH201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0226",
+    "completed_courses": [
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0227",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "MATH101",
+      "MATH201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0228",
+    "completed_courses": [
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0229",
+    "completed_courses": [
+      "AI310",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS303",
+      "CS305",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH205",
+      "PROD201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0230",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "MATH205",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0231",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0232",
+    "completed_courses": [
+      "CS101",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0233",
+    "completed_courses": [
+      "CS101",
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0234",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0235",
+    "completed_courses": [
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0236",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "HCI201",
+      "PROD201",
+      "PROD301",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0237",
+    "completed_courses": [
+      "CS101",
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0238",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "MATH101",
+      "MATH205",
+      "SEC201",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0239",
+    "completed_courses": [
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0240",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "MATH201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0241",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH201",
+      "MATH205",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0242",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0243",
+    "completed_courses": [
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0244",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "MATH205",
+      "PROD201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0245",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0246",
+    "completed_courses": [
+      "CS102",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0247",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "PROD201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0248",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0249",
+    "completed_courses": [
+      "CS102",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0250",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS303",
+      "DATA101",
+      "DATA305",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "PROD301",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0251",
+    "completed_courses": [
+      "CS102"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0252",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "MATH205",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0253",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "CS301",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "SEC201",
+      "SEC305",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0254",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0255",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0256",
+    "completed_courses": [
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0257",
+    "completed_courses": [
+      "DATA101",
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0258",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0259",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "MATH101",
+      "SEC201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0260",
+    "completed_courses": [
+      "CS101",
+      "DES101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0261",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0262",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "MATH101",
+      "PROD201",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0263",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0264",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS301",
+      "CS303",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "FIN301",
+      "MATH101",
+      "SE301",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0265",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DES101",
+      "MATH101",
+      "SEC201",
+      "SEC305",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0266",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SEC301",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0267",
+    "completed_courses": [
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0268",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0269",
+    "completed_courses": [
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0270",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "CS205",
+      "DATA101",
+      "MATH101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0271",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0272",
+    "completed_courses": [
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0273",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "MATH205",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0274",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS305",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI301",
+      "MATH101",
+      "MATH201",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0275",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA201",
+      "DES101",
+      "PROD201",
+      "STAT101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0276",
+    "completed_courses": [
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0277",
+    "completed_courses": [
+      "CS102",
+      "DES101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0278",
+    "completed_courses": [
+      "AI301",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "SE301",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0279",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0280",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0281",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0282",
+    "completed_courses": [
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0283",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DATA305",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0284",
+    "completed_courses": [
+      "CS102",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "MATH205"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0285",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0286",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "SEC201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0287",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0288",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS301",
+      "CS305",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "PROD301",
+      "SEC201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0289",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DATA101",
+      "MATH101",
+      "SEC201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0290",
+    "completed_courses": [
+      "CS101",
+      "DES101",
+      "HCI201",
+      "MATH201",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0291",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA101",
+      "SEC201",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0292",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0293",
+    "completed_courses": [
+      "CS101",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0294",
+    "completed_courses": [
+      "DATA201",
+      "DES101",
+      "HCI201",
+      "MATH205",
+      "PROD201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0295",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "DATA101",
+      "DES101",
+      "PROD201",
+      "STAT101",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0296",
+    "completed_courses": [
+      "DATA101",
+      "DATA201",
+      "MATH101",
+      "MATH205",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FULLSTACK",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0297",
+    "completed_courses": [
+      "CLOUD301",
+      "CS101",
+      "CS102",
+      "CS205",
+      "CS301",
+      "CS308",
+      "DATA101",
+      "DATA201",
+      "HCI201",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0298",
+    "completed_courses": [
+      "DES101",
+      "MATH101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0299",
+    "completed_courses": [
+      "DATA101",
+      "MATH101",
+      "PROD201",
+      "STAT101",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0300",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0301",
+    "completed_courses": [
+      "CS102",
+      "CS205",
+      "DATA101",
+      "STAT101",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0302",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "CS205",
+      "DATA101",
+      "MATH101",
+      "PROD201",
+      "SEC201"
+    ],
+    "stated_goal_pathway": "PW_AI_ETHICS",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0303",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0304",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DATA201",
+      "HCI201",
+      "PROD201",
+      "STAT101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0305",
+    "completed_courses": [
+      "AI301",
+      "AI310",
+      "CS102",
+      "DATA101",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS201"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0306",
+    "completed_courses": [
+      "CS101",
+      "DATA101",
+      "DES101",
+      "MATH101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_SYS_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "screen_reader"
+  },
+  {
+    "student_id": "STU_0307",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "MATH101"
+    ],
+    "stated_goal_pathway": "PW_CLOUD_DEVOPS",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0308",
+    "completed_courses": [
+      "CS101",
+      "CS205",
+      "DATA101",
+      "MATH101",
+      "MATH205",
+      "PROD201",
+      "STAT201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0309",
+    "completed_courses": [
+      "CS101",
+      "CS201",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0310",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS308",
+      "DATA201",
+      "DATA305",
+      "DES101",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_ML_ENG",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0311",
+    "completed_courses": [
+      "AI310",
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS305",
+      "DATA101",
+      "DES101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_BIOINFO",
+    "max_courses_per_term": 3,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0312",
+    "completed_courses": [
+      "CS205",
+      "DATA101",
+      "DATA201",
+      "MATH205",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0313",
+    "completed_courses": [
+      "CS101",
+      "DATA201",
+      "DES101",
+      "MATH101",
+      "MATH205",
+      "SEC201",
+      "STAT101",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0314",
+    "completed_courses": [
+      "AI301",
+      "CS101",
+      "CS102",
+      "CS303",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "PROD201",
+      "SEC201",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0315",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS205",
+      "DES101",
+      "MATH101",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_CYBERSEC",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 3",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0316",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "DATA201",
+      "DES101",
+      "SEC201"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "high_contrast"
+  },
+  {
+    "student_id": "STU_0317",
+    "completed_courses": [
+      "BIO301",
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS205",
+      "CS303",
+      "CS305",
+      "DATA101",
+      "DATA201",
+      "DES101",
+      "STAT101",
+      "STAT201",
+      "SYS101",
+      "WEB201"
+    ],
+    "stated_goal_pathway": "PW_PROD_MGR",
+    "max_courses_per_term": 4,
+    "term_progress": "Year 4",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0318",
+    "completed_courses": [
+      "DATA101",
+      "STAT101"
+    ],
+    "stated_goal_pathway": "PW_FINTECH",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 1-2",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0319",
+    "completed_courses": [
+      "CS101",
+      "CS102",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "STAT201",
+      "SYS101"
+    ],
+    "stated_goal_pathway": "PW_DATA_SCI",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 3",
+    "language_preference": "es",
+    "accessibility_preference": "standard"
+  },
+  {
+    "student_id": "STU_0320",
+    "completed_courses": [
+      "AI305",
+      "CS101",
+      "CS102",
+      "CS308",
+      "DATA101",
+      "DATA305",
+      "DES101",
+      "HCI201",
+      "MATH101",
+      "MATH201",
+      "MATH205",
+      "STAT101",
+      "SYS101",
+      "SYS201",
+      "SYS305"
+    ],
+    "stated_goal_pathway": "PW_UX_ENG",
+    "max_courses_per_term": 2,
+    "term_progress": "Year 4",
+    "language_preference": "en",
+    "accessibility_preference": "standard"
+  }
+]

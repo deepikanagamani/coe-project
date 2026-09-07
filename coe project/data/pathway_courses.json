@@ -1,0 +1,830 @@
+[
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CS101",
+    "weight": 0.5,
+    "rationale": "Foundational programming required for ML scripts."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Discrete structures and graph representations."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "MATH101",
+    "weight": 0.6,
+    "rationale": "Differential calculus foundations for gradient descent."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "STAT101",
+    "weight": 0.6,
+    "rationale": "Introductory probability and empirical distributions."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CS201",
+    "weight": 0.8,
+    "rationale": "Algorithms essential for complex tensor structures and graph processing."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "MATH201",
+    "weight": 0.7,
+    "rationale": "Multivariable calculus for vector derivatives and loss gradients."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "MATH205",
+    "weight": 0.9,
+    "rationale": "Vector algebra and matrix decomposition are mathematical core of deep learning."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "STAT201",
+    "weight": 0.9,
+    "rationale": "Probability theory necessary to understand generative models and loss distributions."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CS305",
+    "weight": 1.0,
+    "rationale": "Core prerequisite covering classical machine learning paradigms."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CS405",
+    "weight": 1.0,
+    "rationale": "State-of-the-art deep architectures and backpropagation optimization."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CS410",
+    "weight": 0.9,
+    "rationale": "Production deployment, inference latency, and feature store architectures."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "AI401",
+    "weight": 0.8,
+    "rationale": "Modern generative foundation models and retrieval-augmented pipelines."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "CLOUD301",
+    "weight": 0.6,
+    "rationale": "Containerized model deployment in cloud environments."
+  },
+  {
+    "pathway_id": "PW_ML_ENG",
+    "course_id": "AI500",
+    "weight": 0.9,
+    "rationale": "Capstone verifying end-to-end ML engineering capability."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "DATA101",
+    "weight": 0.8,
+    "rationale": "Introduction to exploratory analysis and data ethics."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "STAT101",
+    "weight": 0.8,
+    "rationale": "Foundational statistical hypothesis testing and descriptive inference."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Python programming for data wrangling scripts."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "MATH101",
+    "weight": 0.6,
+    "rationale": "Calculus for statistical density and continuous distributions."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "DATA201",
+    "weight": 0.9,
+    "rationale": "Relational data extraction, normalization, and complex querying."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "CS201",
+    "weight": 0.7,
+    "rationale": "Data structures for memory-efficient feature engineering."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "MATH205",
+    "weight": 0.8,
+    "rationale": "Linear algebra required for PCA and dimensional reduction."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "STAT201",
+    "weight": 0.9,
+    "rationale": "Bayesian estimation and stochastic distributions."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "CS305",
+    "weight": 0.9,
+    "rationale": "Predictive modeling and classification/regression algorithms."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "DATA305",
+    "weight": 0.9,
+    "rationale": "Statistical visual communication and exploratory charting."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "DATA405",
+    "weight": 0.9,
+    "rationale": "Causal inference and quasi-experimental econometric evaluation."
+  },
+  {
+    "pathway_id": "PW_DATA_SCI",
+    "course_id": "DATA500",
+    "weight": 0.9,
+    "rationale": "Production capstone demonstrating predictive data science value."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS101",
+    "weight": 0.5,
+    "rationale": "Scripting for automation and cloud configuration."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "SYS101",
+    "weight": 0.6,
+    "rationale": "Computer organization and hardware architecture."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Logic gates and networking foundations."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "SYS201",
+    "weight": 0.8,
+    "rationale": "POSIX systems and memory interaction."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS201",
+    "weight": 0.7,
+    "rationale": "Data structures for distributed routing algorithms."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS301",
+    "weight": 0.9,
+    "rationale": "Process isolation, concurrency, and virtual memory underpinning containers."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS303",
+    "weight": 0.9,
+    "rationale": "Network routing, DNS, and TLS protocols essential for cloud routing."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CLOUD301",
+    "weight": 1.0,
+    "rationale": "Core cloud infrastructure, virtual networks, and container engines."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS401",
+    "weight": 0.9,
+    "rationale": "Distributed consensus (Raft, Paxos) and cloud storage partitions."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS415",
+    "weight": 1.0,
+    "rationale": "Kubernetes microservices orchestration and cloud-native patterns."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "CS430",
+    "weight": 1.0,
+    "rationale": "Site reliability engineering, observability telemetry, and chaos engineering."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "SEC401",
+    "weight": 0.8,
+    "rationale": "Identity and access management (IAM) and cloud zero-trust."
+  },
+  {
+    "pathway_id": "PW_CLOUD_DEVOPS",
+    "course_id": "SYS500",
+    "weight": 0.9,
+    "rationale": "High-performance distributed cluster systems capstone."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "CS101",
+    "weight": 0.5,
+    "rationale": "Scripting for automation and payload analysis."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SYS101",
+    "weight": 0.6,
+    "rationale": "Logic architecture and hardware security foundations."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Discrete math and boolean logic for cryptosystems."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SYS201",
+    "weight": 0.8,
+    "rationale": "Low-level memory layouts required to understand exploitation techniques."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "CS201",
+    "weight": 0.7,
+    "rationale": "Data structures for malware disassembly and graph modeling."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "CS303",
+    "weight": 0.9,
+    "rationale": "Network packets, firewalls, and cryptographic handshakes."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SEC201",
+    "weight": 1.0,
+    "rationale": "Core security principles, threat modeling, and symmetric/asymmetric ciphers."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SEC301",
+    "weight": 0.9,
+    "rationale": "Applied cryptography, public key infrastructure, and protocol security."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SEC305",
+    "weight": 0.9,
+    "rationale": "Source code vulnerability assessment and memory corruption remediation."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SEC401",
+    "weight": 0.9,
+    "rationale": "Cloud identity perimeter defense and infrastructure hardening."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SEC405",
+    "weight": 1.0,
+    "rationale": "Penetration testing, exploitation methodologies, and red team defense."
+  },
+  {
+    "pathway_id": "PW_CYBERSEC",
+    "course_id": "SEC500",
+    "weight": 1.0,
+    "rationale": "Defensive cyber range and forensic incident response capstone."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Introductory programming logic."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Discrete mathematics and state machine logic."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "DES101",
+    "weight": 0.6,
+    "rationale": "Visual layout principles and typography for user interfaces."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "DATA101",
+    "weight": 0.5,
+    "rationale": "Data manipulation and storage concepts."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "CS201",
+    "weight": 0.8,
+    "rationale": "Data structures for fast client and server state processing."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "CS205",
+    "weight": 0.8,
+    "rationale": "Object-oriented design patterns for maintainable codebases."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "DATA201",
+    "weight": 0.8,
+    "rationale": "Relational schema modeling and transaction persistence."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "WEB201",
+    "weight": 1.0,
+    "rationale": "Modern reactive client architecture and browser rendering lifecycle."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "CS308",
+    "weight": 1.0,
+    "rationale": "REST/GraphQL API design and backend middleware engineering."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "SE301",
+    "weight": 0.8,
+    "rationale": "Automated unit, integration, and end-to-end regression testing."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "SE401",
+    "weight": 0.9,
+    "rationale": "Enterprise system architecture, CQRS, and domain-driven design."
+  },
+  {
+    "pathway_id": "PW_FULLSTACK",
+    "course_id": "CS500",
+    "weight": 0.9,
+    "rationale": "Full-scale software engineering capstone."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "DATA101",
+    "weight": 0.7,
+    "rationale": "Data literacy and quantitative decision framing."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "DES101",
+    "weight": 0.7,
+    "rationale": "Visual hierarchy and empathetic user experience foundations."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Technical literacy to converse with software engineering teams."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "STAT101",
+    "weight": 0.6,
+    "rationale": "Statistical hypothesis testing for feature experimentation."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "PROD201",
+    "weight": 1.0,
+    "rationale": "Core product lifecycle management, user research, and roadmapping."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "DATA201",
+    "weight": 0.7,
+    "rationale": "SQL querying to analyze user telemetry independently."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "PROD301",
+    "weight": 1.0,
+    "rationale": "A/B testing, cohort retention analytics, and metric architecture."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "DATA305",
+    "weight": 0.8,
+    "rationale": "Data storytelling for executive and customer presentations."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "AI310",
+    "weight": 0.8,
+    "rationale": "Responsible technology governance and regulatory compliance."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "PROD401",
+    "weight": 1.0,
+    "rationale": "End-to-end product incubation leadership and commercialization."
+  },
+  {
+    "pathway_id": "PW_PROD_MGR",
+    "course_id": "PROD500",
+    "weight": 1.0,
+    "rationale": "Comprehensive venture launch capstone."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "SYS101",
+    "weight": 0.8,
+    "rationale": "Hardware logic gates and register-transfer-level architecture."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "CS101",
+    "weight": 0.5,
+    "rationale": "Algorithmic foundation."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Boolean algebra and discrete logic circuits."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "SYS201",
+    "weight": 1.0,
+    "rationale": "C systems programming, pointers, and POSIX interface."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "CS201",
+    "weight": 0.8,
+    "rationale": "Memory-efficient data structures for constrained systems."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "CS301",
+    "weight": 1.0,
+    "rationale": "Operating system kernel internals and interrupt servicing."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "SYS305",
+    "weight": 0.9,
+    "rationale": "Hardware concurrency and lock-free thread synchronizations."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "SYS401",
+    "weight": 1.0,
+    "rationale": "Real-time operating systems (RTOS) and micro-controller scheduling."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "SYS405",
+    "weight": 0.9,
+    "rationale": "Hardware-software co-design and FPGA custom logic accelerators."
+  },
+  {
+    "pathway_id": "PW_SYS_ENG",
+    "course_id": "SYS500",
+    "weight": 0.9,
+    "rationale": "High-performance systems engineering capstone."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "DATA101",
+    "weight": 0.8,
+    "rationale": "Societal impacts of data collection and privacy rights."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "STAT101",
+    "weight": 0.7,
+    "rationale": "Statistical foundations to understand population bias."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Algorithmic understanding for technical auditing."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "DATA201",
+    "weight": 0.6,
+    "rationale": "Data persistence and relational compliance schema."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "AI310",
+    "weight": 1.0,
+    "rationale": "Foundational AI ethics, governance models, and sociotechnical frameworks."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "DATA301",
+    "weight": 0.7,
+    "rationale": "Data lineage and ETL audit pipelines."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "DATA410",
+    "weight": 0.9,
+    "rationale": "Data compliance frameworks (GDPR) and differential privacy."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "AI410",
+    "weight": 1.0,
+    "rationale": "Algorithmic auditing toolkits, disparity metrics, and model cards."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "CS305",
+    "weight": 0.7,
+    "rationale": "Technical awareness of machine learning algorithms under audit."
+  },
+  {
+    "pathway_id": "PW_AI_ETHICS",
+    "course_id": "AI500",
+    "weight": 0.8,
+    "rationale": "Ethical autonomous systems capstone."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Core programming for ETL automation."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Discrete graph structures for pipeline dependency DAGs."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "DATA101",
+    "weight": 0.6,
+    "rationale": "Introduction to exploratory data systems and tabular storage."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "CS201",
+    "weight": 0.8,
+    "rationale": "Tree and graph algorithms for DAG orchestrators."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "DATA201",
+    "weight": 1.0,
+    "rationale": "Relational databases, indexing, and SQL optimization."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "SYS201",
+    "weight": 0.7,
+    "rationale": "Systems programming and memory management for high-throughput batching."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "DATA301",
+    "weight": 1.0,
+    "rationale": "Data warehousing, star schemas, and batch pipelines."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "CS301",
+    "weight": 0.8,
+    "rationale": "Filesystem internals, buffer caching, and disk I/O management."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "CLOUD301",
+    "weight": 0.8,
+    "rationale": "Cloud compute and scalable storage layers (S3/blob)."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "DATA401",
+    "weight": 1.0,
+    "rationale": "Distributed streaming engines (Kafka/Flink) and real-time joins."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "CS401",
+    "weight": 0.9,
+    "rationale": "Distributed storage systems and consensus protocols."
+  },
+  {
+    "pathway_id": "PW_DATA_ENG",
+    "course_id": "DATA500",
+    "weight": 0.9,
+    "rationale": "Enterprise data systems capstone."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "DES101",
+    "weight": 0.9,
+    "rationale": "Visual design, layout systems, and visual balance."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Coding foundations for dynamic interface logic."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "HCI201",
+    "weight": 1.0,
+    "rationale": "Cognitive interaction principles and usability heuristics."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "WEB201",
+    "weight": 1.0,
+    "rationale": "Interactive DOM components and responsive styling."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "CS201",
+    "weight": 0.7,
+    "rationale": "Data structures for rendering tree traversals."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "CS205",
+    "weight": 0.7,
+    "rationale": "Component-based object-oriented frontend patterns."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "HCI301",
+    "weight": 1.0,
+    "rationale": "Universal web accessibility (WCAG 2.1 AA/AAA) and assistive tools."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "SE405",
+    "weight": 0.8,
+    "rationale": "Mobile touch ergonomics and native UX behaviors."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "HCI401",
+    "weight": 0.9,
+    "rationale": "Spatial interfaces, AR/VR, and multimodal interaction."
+  },
+  {
+    "pathway_id": "PW_UX_ENG",
+    "course_id": "HCI500",
+    "weight": 1.0,
+    "rationale": "Universal accessibility studio capstone."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "MATH101",
+    "weight": 0.7,
+    "rationale": "Calculus for continuous rate of return and derivatives."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "STAT101",
+    "weight": 0.7,
+    "rationale": "Descriptive statistics and variance measures."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Financial algorithmic logic and script execution."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "SYS101",
+    "weight": 0.5,
+    "rationale": "Hardware architecture and clock cycles for latency analysis."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "MATH205",
+    "weight": 0.8,
+    "rationale": "Linear algebra for covariance matrices."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "STAT201",
+    "weight": 0.9,
+    "rationale": "Stochastic processes and probability densities."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "SYS201",
+    "weight": 0.8,
+    "rationale": "Low-latency systems programming."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "CS201",
+    "weight": 0.7,
+    "rationale": "Order book queue and heap data structures."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "FIN301",
+    "weight": 1.0,
+    "rationale": "Computational finance models and portfolio optimization."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "SYS305",
+    "weight": 0.9,
+    "rationale": "Concurrent multi-core trade book processing."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "FIN401",
+    "weight": 1.0,
+    "rationale": "High-frequency trade execution and market microstructure."
+  },
+  {
+    "pathway_id": "PW_FINTECH",
+    "course_id": "CS401",
+    "weight": 0.8,
+    "rationale": "Distributed ledgers and decentralized consensus."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "CS101",
+    "weight": 0.6,
+    "rationale": "Python scripting for FASTA and biological formats."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "CS102",
+    "weight": 0.5,
+    "rationale": "Discrete math for genomic sequence combinatorics."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "STAT101",
+    "weight": 0.7,
+    "rationale": "Biostatistical distributions and p-value significance."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "CS201",
+    "weight": 0.9,
+    "rationale": "Graph theory and string matching algorithms for DNA sequences."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "STAT201",
+    "weight": 0.8,
+    "rationale": "Biostatistical hypothesis testing and variance analysis."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "DATA201",
+    "weight": 0.7,
+    "rationale": "Relational databases for clinical trials and patient registries."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "BIO301",
+    "weight": 1.0,
+    "rationale": "Computational molecular biology algorithms (BLAST, Smith-Waterman)."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "CS305",
+    "weight": 0.8,
+    "rationale": "Machine learning for classification of biological phenotypes."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "BIO401",
+    "weight": 1.0,
+    "rationale": "Genomic machine learning, molecular GNNs, and drug discovery."
+  },
+  {
+    "pathway_id": "PW_BIOINFO",
+    "course_id": "DATA301",
+    "weight": 0.7,
+    "rationale": "Big data pipeline processing for high-throughput sequencing."
+  }
+]

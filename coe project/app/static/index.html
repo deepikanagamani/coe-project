@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Prerequisite & Career-Consequence Explorer: Self-directed, explainable, and privacy-preserving curriculum planning for students.">
+  <title>Prerequisite & Career-Consequence Explorer</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- WCAG 2.1 AA Skip Navigation Link -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- App Header -->
+  <header class="app-header" role="banner">
+    <div class="header-inner">
+      <div class="brand-section">
+        <div class="brand-logo" aria-hidden="true">🧭</div>
+        <div>
+          <h1 class="brand-title" id="lbl-app-title">Prerequisite & Career-Consequence Explorer</h1>
+          <span class="privacy-badge" id="lbl-privacy-badge">
+            <span aria-hidden="true">🔒</span> Zero-Surveillance Architecture
+          </span>
+        </div>
+      </div>
+
+      <!-- Navigation Tabs -->
+      <nav class="nav-tabs" role="tablist" aria-label="Primary Navigation">
+        <button class="tab-btn active" id="tab-btn-planner" role="tab" aria-selected="true" aria-controls="pane-planner">
+          Elective Planner
+        </button>
+        <button class="tab-btn" id="tab-btn-dag" role="tab" aria-selected="false" aria-controls="pane-dag">
+          Prerequisite DAG
+        </button>
+        <button class="tab-btn" id="tab-btn-pathways" role="tab" aria-selected="false" aria-controls="pane-pathways">
+          Career Pathways
+        </button>
+        <button class="tab-btn" id="tab-btn-mentor" role="tab" aria-selected="false" aria-controls="pane-mentor">
+          Mentor Insights
+        </button>
+      </nav>
+
+      <!-- Accessibility & Settings Controls -->
+      <div class="header-controls">
+        <button class="ctrl-btn" id="btn-toggle-explain" aria-pressed="true" title="Toggle explainability details">
+          <span aria-hidden="true">💡</span> <span id="lbl-explain">Explain Mode: ON</span>
+        </button>
+        <button class="ctrl-btn" id="btn-toggle-a11y" aria-pressed="false" title="Toggle high contrast">
+          <span aria-hidden="true">👁️</span> <span id="lbl-contrast">Contrast</span>
+        </button>
+        <button class="ctrl-btn" id="btn-toggle-lang" title="Switch language / Cambiar idioma">
+          <span aria-hidden="true">🌐</span> <span id="lbl-lang-indicator">EN / ES</span>
+        </button>
+        <button class="ctrl-btn" id="btn-toggle-theme" title="Toggle dark/light theme">
+          <span aria-hidden="true" id="icon-theme">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Student Persona Bar -->
+  <section class="persona-bar" aria-label="Active Student Profile">
+    <div class="persona-inner">
+      <div class="persona-select-group">
+        <label for="select-student" class="persona-select-label" id="lbl-select-student">Active Learner:</label>
+        <select id="select-student" class="select-input" aria-label="Select learner profile">
+          <!-- Populated dynamically via JS -->
+        </select>
+      </div>
+
+      <div class="persona-meta-pills">
+        <div class="meta-pill">
+          <span class="meta-pill-label" id="lbl-career-goal">Career Goal:</span>
+          <span class="meta-pill-value" id="val-career-goal">Machine Learning Engineer</span>
+        </div>
+        <div class="meta-pill">
+          <span class="meta-pill-label" id="lbl-progress-stage">Progression:</span>
+          <span class="meta-pill-value" id="val-progress-stage">Year 3 (Core)</span>
+        </div>
+        <div class="meta-pill">
+          <span class="meta-pill-label" id="lbl-completed-count">Completed:</span>
+          <span class="meta-pill-value" id="val-completed-courses">7 courses (23 credits)</span>
+        </div>
+        <div class="meta-pill">
+          <span class="meta-pill-label" id="lbl-pace-pref">Max Pace:</span>
+          <span class="meta-pill-value" id="val-max-pace">3 courses/term</span>
+        </div>
+      </div>
+
+      <div>
+        <button class="btn-secondary" id="btn-view-transcript" title="View completed transcript">
+          View Transcript
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Area -->
+  <main class="app-container" id="main-content" role="main">
+    
+    <!-- Screen Reader Live Region for Announcements -->
+    <div id="sr-announcements" class="sr-only" aria-live="polite" aria-atomic="true" style="position: absolute; left: -9999px;"></div>
+
+    <!-- PANE 1: ELECTIVE PLANNER -->
+    <div class="tab-pane active" id="pane-planner" role="tabpanel" aria-labelledby="tab-btn-planner">
+      <div class="planner-grid">
+        
+        <!-- Left Column: Proposed Plan Basket & Conflict Detector -->
+        <div class="app-card">
+          <div class="card-header">
+            <h2 class="card-title">
+              <span aria-hidden="true">📋</span> <span id="lbl-basket-title">Proposed Schedule</span>
+            </h2>
+            <div class="card-actions">
+              <select id="select-plan-term" class="select-input" aria-label="Select planning term">
+                <option value="Fall">Fall 2026</option>
+                <option value="Spring">Spring 2027</option>
+                <option value="Summer">Summer 2027</option>
+              </select>
+              <button class="ctrl-btn" id="btn-clear-plan" title="Clear all courses from schedule">Clear</button>
+            </div>
+          </div>
+
+          <!-- Live Integrity & Conflict Banner -->
+          <div id="plan-conflict-banner" class="conflict-banner ok" role="status">
+            <span class="conflict-icon" aria-hidden="true">✓</span>
+            <div>
+              <strong id="banner-title">Schedule Fully Verified</strong>
+              <p id="banner-desc">Prerequisites met, zero timeslot collisions, and pace is within limits.</p>
+            </div>
+          </div>
+
+          <!-- Selected Courses in Plan -->
+          <div class="plan-basket-list" id="plan-basket-items" role="list">
+            <!-- Populated via JS -->
+          </div>
+
+          <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-subtle); padding-top: 14px; margin-top: 12px;">
+            <div style="font-size: 0.85rem; color: var(--text-muted);">
+              Total Credits: <strong id="val-total-plan-credits" style="color: var(--text-primary);">0</strong> / 15
+            </div>
+            <button class="btn-primary" id="btn-validate-full-plan">
+              <span aria-hidden="true">⚡</span> Validate Schedule
+            </button>
+          </div>
+        </div>
+
+        <!-- Right Column: Explainable Recommendations & Catalog Browser -->
+        <div style="display: flex; flex-direction: column; gap: 24px;">
+          
+          <!-- Recommendations Section -->
+          <div class="app-card">
+            <div class="card-header">
+              <div>
+                <h2 class="card-title">
+                  <span aria-hidden="true">🎯</span> <span id="lbl-recs-title">Recommended Electives</span>
+                </h2>
+                <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 2px;" id="lbl-recs-desc">
+                  Ranked by career alignment, verified prerequisite eligibility, and timeslot compatibility.
+                </p>
+              </div>
+              <div style="font-size: 0.8rem; color: var(--accent-cyan); font-weight: 600;" id="rec-latency-badge">
+                Computed in <span id="rec-latency-val">12ms</span>
+              </div>
+            </div>
+
+            <div class="recommendations-grid" id="recommendations-container">
+              <!-- Populated via JS -->
+            </div>
+          </div>
+
+          <!-- Search & Filter Catalog Explorer -->
+          <div class="app-card">
+            <div class="card-header">
+              <h2 class="card-title">
+                <span aria-hidden="true">📚</span> <span id="lbl-catalog-title">Course Catalog Explorer</span>
+              </h2>
+              <div style="display: flex; gap: 8px;">
+                <select id="filter-dept" class="select-input" aria-label="Filter by department">
+                  <option value="">All Departments</option>
+                  <option value="CS">Computer Science</option>
+                  <option value="DATA">Data Science</option>
+                  <option value="AI">Artificial Intelligence</option>
+                  <option value="SYS">Systems</option>
+                  <option value="SEC">Security</option>
+                  <option value="MATH">Mathematics</option>
+                  <option value="SE">Software Eng</option>
+                  <option value="PROD">Product</option>
+                  <option value="HCI">HCI</option>
+                </select>
+                <input type="search" id="input-catalog-search" class="select-input" placeholder="Search courses..." style="width: 220px;" aria-label="Search courses by keyword">
+              </div>
+            </div>
+
+            <div class="recommendations-grid" id="catalog-container" style="max-height: 480px; overflow-y: auto; padding-right: 6px;">
+              <!-- Populated via JS -->
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <!-- PANE 2: INTERACTIVE PREREQUISITE DAG -->
+    <div class="tab-pane" id="pane-dag" role="tabpanel" aria-labelledby="tab-btn-dag">
+      <div class="app-card">
+        <div class="card-header">
+          <div>
+            <h2 class="card-title">
+              <span aria-hidden="true">🌲</span> <span id="lbl-dag-header">Interactive Prerequisite Graph (DAG)</span>
+            </h2>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 4px;" id="lbl-dag-subheader">
+              Visualize prerequisite hierarchies, verify eligibility, and discover the shortest path to target electives.
+            </p>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <label for="select-dag-target" style="font-size: 0.85rem; font-weight: 600; color: var(--text-secondary);">Target Elective:</label>
+            <select id="select-dag-target" class="select-input" style="min-width: 260px;" aria-label="Select target course for DAG visualization">
+              <!-- Populated via JS -->
+            </select>
+          </div>
+        </div>
+
+        <!-- DAG SVG Canvas Container -->
+        <div class="dag-wrapper" id="dag-container" tabindex="0" role="region" aria-label="Interactive DAG visualizer canvas">
+          <div class="dag-controls">
+            <button class="ctrl-btn" id="btn-dag-zoom-in" title="Zoom In">+</button>
+            <button class="ctrl-btn" id="btn-dag-zoom-out" title="Zoom Out">-</button>
+            <button class="ctrl-btn" id="btn-dag-reset" title="Reset View">Reset</button>
+          </div>
+          <div class="dag-legend">
+            <div class="legend-item"><span class="legend-dot completed"></span> <span id="leg-completed">Completed</span></div>
+            <div class="legend-item"><span class="legend-dot eligible"></span> <span id="leg-eligible">Eligible Now</span></div>
+            <div class="legend-item"><span class="legend-dot locked"></span> <span id="leg-locked">Locked (Missing Prereq)</span></div>
+            <div class="legend-item"><span class="legend-dot target"></span> <span id="leg-target">Target Elective</span></div>
+          </div>
+        </div>
+
+        <!-- Shortest Path Recommendation Tray -->
+        <div class="shortest-path-tray" id="dag-shortest-path-box">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--text-primary);" id="lbl-shortest-path-title">
+              Shortest Prerequisite Path to Eligibility
+            </h3>
+            <button class="btn-primary" id="btn-add-shortest-path">
+              Add Prerequisite Chain to Plan
+            </button>
+          </div>
+          <div class="stages-container" id="dag-stages-container">
+            <!-- Populated via JS -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- PANE 3: CAREER PATHWAYS EXPLORER -->
+    <div class="tab-pane" id="pane-pathways" role="tabpanel" aria-labelledby="tab-btn-pathways">
+      <div class="app-card">
+        <div class="card-header">
+          <h2 class="card-title">
+            <span aria-hidden="true">🚀</span> Career Pathways & Competency Frameworks
+          </h2>
+          <p style="font-size: 0.85rem; color: var(--text-muted);">
+            Transparent curricular mappings showing how specific courses cultivate real-world competencies.
+          </p>
+        </div>
+        <div class="recommendations-grid" id="pathways-container">
+          <!-- Populated via JS -->
+        </div>
+      </div>
+    </div>
+
+    <!-- PANE 4: MENTOR COHORT INSIGHTS -->
+    <div class="tab-pane" id="pane-mentor" role="tabpanel" aria-labelledby="tab-btn-mentor">
+      <div class="app-card">
+        <div class="card-header">
+          <div>
+            <h2 class="card-title">
+              <span aria-hidden="true">📊</span> Institutional & Cohort Bottleneck Analytics
+            </h2>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 4px;">
+              Anonymized curriculum bottlenecks to help mentors and administrators optimize course capacities without surveillance.
+            </p>
+          </div>
+          <span class="privacy-badge">Zero Individual Surveillance</span>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 18px 0;">
+          <div class="app-card" style="background: rgba(99, 102, 241, 0.08); border-color: rgba(99, 102, 241, 0.3);">
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Learners Supported</div>
+            <div style="font-size: 1.8rem; font-weight: 700; color: #818cf8;" id="mentor-stat-students">320</div>
+          </div>
+          <div class="app-card" style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.3);">
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Historical Enrollments Analyzed</div>
+            <div style="font-size: 1.8rem; font-weight: 700; color: #34d399;" id="mentor-stat-events">1,000</div>
+          </div>
+          <div class="app-card" style="background: rgba(244, 63, 94, 0.08); border-color: rgba(244, 63, 94, 0.3);">
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Primary Prerequisite Friction Course</div>
+            <div style="font-size: 1.8rem; font-weight: 700; color: #fda4af;" id="mentor-stat-bottleneck">CS201</div>
+          </div>
+        </div>
+
+        <div style="margin-top: 24px;">
+          <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 12px;">Top Prerequisite Drop-Off Bottlenecks</h3>
+          <div style="overflow-x: auto;">
+            <table class="mentor-table" id="mentor-bottlenecks-table">
+              <thead>
+                <tr>
+                  <th>Course</th>
+                  <th>Title</th>
+                  <th>Department</th>
+                  <th>Affected Historical Students</th>
+                  <th>Friction Severity</th>
+                </tr>
+              </thead>
+              <tbody id="mentor-bottlenecks-body">
+                <!-- Populated via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div style="margin-top: 32px;">
+          <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 12px;">Curriculum Gateway Courses (Highest Downstream Prerequisites)</h3>
+          <div style="overflow-x: auto;">
+            <table class="mentor-table" id="mentor-gateways-table">
+              <thead>
+                <tr>
+                  <th>Gateway Course</th>
+                  <th>Title</th>
+                  <th>Department</th>
+                  <th>Downstream Dependent Courses</th>
+                </tr>
+              </thead>
+              <tbody id="mentor-gateways-body">
+                <!-- Populated via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </main>
+
+  <!-- MODAL 1: CONSEQUENCE PREVIEW -->
+  <div class="modal-backdrop" id="modal-consequence" role="dialog" aria-modal="true" aria-labelledby="consequence-modal-title">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3 id="consequence-modal-title" style="font-size: 1.15rem; font-weight: 700;">Career & Schedule Consequence Preview</h3>
+        <button class="btn-remove" id="btn-close-consequence" aria-label="Close dialog">✕</button>
+      </div>
+      <div class="modal-body" id="consequence-modal-body">
+        <!-- Injected via JS -->
+      </div>
+      <div class="modal-footer">
+        <button class="btn-secondary" id="btn-dismiss-consequence">Cancel</button>
+        <button class="btn-primary" id="btn-confirm-add-consequence">Add to Schedule Anyway</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 2: WHY NOT EXPLAINER -->
+  <div class="modal-backdrop" id="modal-whynot" role="dialog" aria-modal="true" aria-labelledby="whynot-modal-title">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3 id="whynot-modal-title" style="font-size: 1.15rem; font-weight: 700;">Why Not Take This Course?</h3>
+        <button class="btn-remove" id="btn-close-whynot" aria-label="Close dialog">✕</button>
+      </div>
+      <div class="modal-body" id="whynot-modal-body">
+        <!-- Injected via JS -->
+      </div>
+      <div class="modal-footer">
+        <button class="btn-secondary" id="btn-dismiss-whynot">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- App Footer -->
+  <footer class="app-footer">
+    <p>Prerequisite & Career-Consequence Explorer • Built with Python FastAPI, SQLite, SVG DAG Visualizer • Privacy-Preserving Self-Service Tooling</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/i18n.js"></script>
+  <script src="js/dag_visualizer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

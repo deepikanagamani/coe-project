@@ -1,0 +1,870 @@
+[
+  {
+    "course_id": "CS101",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS101",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS101",
+    "term": "Summer",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS102",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS102",
+    "term": "Spring",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "MATH101",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "MATH101",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "MATH101",
+    "term": "Summer",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA101",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA101",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS101",
+    "term": "Fall",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS101",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "DES101",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "DES101",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "STAT101",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "STAT101",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "STAT101",
+    "term": "Summer",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS201",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS201",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS205",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS205",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "MATH201",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "MATH201",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "MATH205",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "MATH205",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS201",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS201",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "DATA201",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA201",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "DATA201",
+    "term": "Summer",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "WEB201",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "WEB201",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "SEC201",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "SEC201",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "STAT201",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "STAT201",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "PROD201",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "PROD201",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "HCI201",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "HCI201",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS301",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS301",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS303",
+    "term": "Fall",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS303",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS305",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS305",
+    "term": "Spring",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS308",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS308",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA301",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA301",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA305",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "DATA305",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS305",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "SYS305",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "SEC301",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "SEC301",
+    "term": "Spring",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "SEC305",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "SEC305",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI301",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI301",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI305",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI305",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI310",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "AI310",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "CLOUD301",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "CLOUD301",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "SE301",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "SE301",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "PROD301",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "PROD301",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "HCI301",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "HCI301",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "FIN301",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "FIN301",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "BIO301",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "BIO301",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS401",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS401",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS405",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS405",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS410",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS410",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS415",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS415",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS420",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS430",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA401",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "DATA401",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA405",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "DATA410",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "SEC401",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "SEC405",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI401",
+    "term": "Fall",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "AI401",
+    "term": "Spring",
+    "day_time_slot": "Fri 09:00-12:00",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI405",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI410",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "AI410",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS401",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS405",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "SE401",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "SE401",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "SE405",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 14:45-16:15",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "SE405",
+    "term": "Spring",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "PROD401",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 15:15-16:45",
+    "room": "Lovelace-202",
+    "capacity": 120
+  },
+  {
+    "course_id": "HCI401",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "FIN401",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Hopper-102",
+    "capacity": 120
+  },
+  {
+    "course_id": "BIO401",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "CS500",
+    "term": "Fall",
+    "day_time_slot": "Fri 13:00-16:00",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "CS500",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "DATA500",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "DATA500",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "AI500",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "AI500",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS500",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 13:00-14:30",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "SYS500",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Hall-A",
+    "capacity": 120
+  },
+  {
+    "course_id": "SEC500",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "SEC500",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "PROD500",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 08:30-10:00",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "PROD500",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 09:00-10:30",
+    "room": "Turing-301",
+    "capacity": 120
+  },
+  {
+    "course_id": "HCI500",
+    "term": "Fall",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Hall-B",
+    "capacity": 120
+  },
+  {
+    "course_id": "HCI500",
+    "term": "Spring",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Virtual-01",
+    "capacity": 120
+  },
+  {
+    "course_id": "EDGE101",
+    "term": "Fall",
+    "day_time_slot": "Mon/Wed 10:15-11:45",
+    "room": "Lab-204",
+    "capacity": 45
+  },
+  {
+    "course_id": "EDGE201",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 13:30-15:00",
+    "room": "Lab-101",
+    "capacity": 45
+  },
+  {
+    "course_id": "EDGE202",
+    "term": "Spring",
+    "day_time_slot": "Tue/Thu 10:45-12:15",
+    "room": "Hall-B",
+    "capacity": 120
+  }
+]
